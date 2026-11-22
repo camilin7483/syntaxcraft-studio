@@ -23,6 +23,26 @@ VS Code 1.100 o posterior. Las extensiones de interfaz incluyen todos sus recurs
 | Control Center | Estudio de color e iconos, catálogo de lenguajes, accesibilidad, perfiles JSON, comparación y restauración por ámbito. |
 | Extension Pack | Instala los cuatro módulos cuando estén disponibles en Visual Studio Marketplace.                                      |
 
+## Demostración
+
+El recorrido muestra cómo editar el color de un token de Python, comparar el resultado, elegir un tema e iconos y guardar un perfil. Al final se ven las acciones del Organizador.
+
+https://github.com/user-attachments/assets/3ed888ae-5a08-4e93-9475-0e3eb674b73a
+
+[Abrir el video MP4](https://github.com/user-attachments/assets/3ed888ae-5a08-4e93-9475-0e3eb674b73a)
+
+| Panel de control                                                                                       | Estudio de color                                                                                           |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| ![Panel de control con el tema activo y una vista previa de TypeScript](docs/media/control-center.png) | ![Comparación del color de comentarios de Python antes y después de editarlo](docs/media/color-studio.png) |
+
+| Temas de color                                                                             | Estudio de iconos                                                                                 |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| ![Diez temas de color con Arctic Light seleccionado en el borrador](docs/media/themes.png) | ![Cuatro conjuntos de iconos de archivo con la vista previa del explorador](docs/media/icons.png) |
+
+| Perfiles                                                                    | Organizador                                                                                  |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ![Perfil Python guardado y preajustes disponibles](docs/media/profiles.png) | ![Acciones de formato, importaciones y limpieza en el Organizador](docs/media/organizer.png) |
+
 ## Apariencia y perfiles
 
 Los temas incluyen Midnight Pro, Neon Cyber, Arctic Light, OLED Black, Forest Developer, Crimson Dark, Pastel Coding, High Contrast Pro, Monochrome y Custom Studio. Selecciónalos desde el panel o con **Preferences: Color Theme**. Elige un tema de iconos con **Preferences: File Icon Theme**.
