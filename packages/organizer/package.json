@@ -1,0 +1,118 @@
+{
+  "name": "syntaxcraft-organizer",
+  "displayName": "SyntaxCraft Organizer",
+  "description": "Format with your VS Code providers, review import and whitespace edits, and navigate folding regions.",
+  "version": "1.0.0",
+  "publisher": "syntaxcraft-studio",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Formatters",
+    "Other"
+  ],
+  "keywords": [
+    "formatting",
+    "organize imports",
+    "indentation",
+    "whitespace",
+    "folding",
+    "syntaxcraft"
+  ],
+  "icon": "icon.png",
+  "main": "./dist/index.cjs",
+  "extensionKind": [
+    "workspace"
+  ],
+  "activationEvents": [
+    "onCommand:syntaxcraft.organizer.status"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": "limited",
+      "description": "Provider-backed formatting and import organization require a trusted workspace. Editor navigation and local cleanup are available in Restricted Mode."
+    },
+    "virtualWorkspaces": {
+      "supported": "limited",
+      "description": "Editing commands support local and remote files and untitled editors."
+    }
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "syntaxcraft.organizer.formatDocument",
+        "title": "Format Document",
+        "category": "SyntaxCraft Organizer",
+        "enablement": "!editorReadonly"
+      },
+      {
+        "command": "syntaxcraft.organizer.formatSelection",
+        "title": "Format Selection",
+        "category": "SyntaxCraft Organizer",
+        "enablement": "!editorReadonly && editorHasSelection"
+      },
+      {
+        "command": "syntaxcraft.organizer.organizeImports",
+        "title": "Organize Imports",
+        "category": "SyntaxCraft Organizer",
+        "enablement": "!editorReadonly"
+      },
+      {
+        "command": "syntaxcraft.organizer.trimTrailingWhitespace",
+        "title": "Trim Trailing Whitespace",
+        "category": "SyntaxCraft Organizer",
+        "enablement": "!editorReadonly"
+      },
+      {
+        "command": "syntaxcraft.organizer.normalizeLineEndings",
+        "title": "Normalize Line Endings",
+        "category": "SyntaxCraft Organizer",
+        "enablement": "!editorReadonly"
+      },
+      {
+        "command": "syntaxcraft.organizer.reindent",
+        "title": "Reindent Lines",
+        "category": "SyntaxCraft Organizer",
+        "enablement": "!editorReadonly"
+      },
+      {
+        "command": "syntaxcraft.organizer.nextRegion",
+        "title": "Go to Next Folding Region",
+        "category": "SyntaxCraft Organizer"
+      },
+      {
+        "command": "syntaxcraft.organizer.previousRegion",
+        "title": "Go to Previous Folding Region",
+        "category": "SyntaxCraft Organizer"
+      },
+      {
+        "command": "syntaxcraft.organizer.foldAll",
+        "title": "Fold All",
+        "category": "SyntaxCraft Organizer"
+      },
+      {
+        "command": "syntaxcraft.organizer.unfoldAll",
+        "title": "Unfold All",
+        "category": "SyntaxCraft Organizer"
+      },
+      {
+        "command": "syntaxcraft.organizer.showStatus",
+        "title": "Show Provider Status",
+        "category": "SyntaxCraft Organizer"
+      },
+      {
+        "command": "syntaxcraft.organizer.openSettings",
+        "title": "Open Organizer Settings",
+        "category": "SyntaxCraft Organizer"
+      }
+    ]
+  },
+  "files": [
+    "dist",
+    "icon.png",
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md"
+  ]
+}

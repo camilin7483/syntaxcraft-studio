@@ -1,0 +1,33 @@
+{
+  "name": "syntaxcraft-extension-pack",
+  "displayName": "SyntaxCraft Studio Extension Pack",
+  "publisher": "syntaxcraft-studio",
+  "version": "1.0.0",
+  "description": "Install SyntaxCraft Colors, Icons, Organizer, and Control Center together.",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "themes",
+    "icons",
+    "formatting",
+    "profiles"
+  ],
+  "extensionPack": [
+    "syntaxcraft-studio.syntaxcraft-colors",
+    "syntaxcraft-studio.syntaxcraft-icons",
+    "syntaxcraft-studio.syntaxcraft-organizer",
+    "syntaxcraft-studio.syntaxcraft-control-center"
+  ],
+  "files": [
+    "icon.png",
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md"
+  ]
+}

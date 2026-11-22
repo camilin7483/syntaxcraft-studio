@@ -1,0 +1,53 @@
+{
+  "fonts": [
+    {
+      "id": "syntaxcraft-workbench",
+      "src": [
+        {
+          "path": "../assets/product-icons/syntaxcraft-workbench.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "explorer-view-icon": {
+      "fontCharacter": "\\E900",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "search-view-icon": {
+      "fontCharacter": "\\E901",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "source-control-view-icon": {
+      "fontCharacter": "\\E902",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "run-view-icon": {
+      "fontCharacter": "\\E903",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "extensions-view-icon": {
+      "fontCharacter": "\\E904",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "test-view-icon": {
+      "fontCharacter": "\\E905",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "terminal-view-icon": {
+      "fontCharacter": "\\E906",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "settings-view-bar-icon": {
+      "fontCharacter": "\\E907",
+      "fontId": "syntaxcraft-workbench"
+    },
+    "accounts-view-bar-icon": {
+      "fontCharacter": "\\E908",
+      "fontId": "syntaxcraft-workbench"
+    }
+  }
+}

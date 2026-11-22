@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "SyntaxCraft Studio",
+      "type": "extensionHost",
+      "request": "launch",
+      "args": [
+        "--extensionDevelopmentPath=${workspaceFolder}/packages/colors",
+        "--extensionDevelopmentPath=${workspaceFolder}/packages/icons",
+        "--extensionDevelopmentPath=${workspaceFolder}/packages/organizer",
+        "--extensionDevelopmentPath=${workspaceFolder}/packages/control-center",
+        "--extensionDevelopmentPath=${workspaceFolder}/packages/extension-pack"
+      ]
+    }
+  ]
+}

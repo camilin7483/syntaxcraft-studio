@@ -1,0 +1,9 @@
+node_modules
+dist
+release
+.test-runtime
+.vscode-test
+package-lock.json
+packages/colors/themes/
+packages/icons/themes/
+packages/icons/assets/

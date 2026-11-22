@@ -1,0 +1,101 @@
+{
+  "name": "syntaxcraft-colors",
+  "displayName": "SyntaxCraft Colors",
+  "description": "Ten original color themes with semantic and TextMate highlighting for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "syntaxcraft-studio",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "color theme",
+    "semantic highlighting",
+    "textmate",
+    "dark theme",
+    "light theme"
+  ],
+  "galleryBanner": {
+    "color": "#111827",
+    "theme": "dark"
+  },
+  "scripts": {
+    "build": "node scripts/generate.mjs"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "SyntaxCraft Midnight Pro",
+        "label": "SyntaxCraft Midnight Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-pro-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft Neon Cyber",
+        "label": "SyntaxCraft Neon Cyber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-cyber-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft Arctic Light",
+        "label": "SyntaxCraft Arctic Light",
+        "uiTheme": "vs",
+        "path": "./themes/arctic-light-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft OLED Black",
+        "label": "SyntaxCraft OLED Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oled-black-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft Forest Developer",
+        "label": "SyntaxCraft Forest Developer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-developer-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft Crimson Dark",
+        "label": "SyntaxCraft Crimson Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crimson-dark-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft Pastel Coding",
+        "label": "SyntaxCraft Pastel Coding",
+        "uiTheme": "vs",
+        "path": "./themes/pastel-coding-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft High Contrast Pro",
+        "label": "SyntaxCraft High Contrast Pro",
+        "uiTheme": "hc-black",
+        "path": "./themes/high-contrast-pro-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft Monochrome",
+        "label": "SyntaxCraft Monochrome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monochrome-color-theme.json"
+      },
+      {
+        "id": "SyntaxCraft Custom Studio",
+        "label": "SyntaxCraft Custom Studio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/custom-studio-color-theme.json"
+      }
+    ]
+  },
+  "files": [
+    "themes",
+    "LANGUAGES.md",
+    "icon.png",
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md"
+  ]
+}

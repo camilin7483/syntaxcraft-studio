@@ -1,0 +1,63 @@
+{
+  "name": "syntaxcraft-control-center",
+  "displayName": "SyntaxCraft Control Center",
+  "publisher": "syntaxcraft-studio",
+  "version": "1.0.0",
+  "description": "Tune VS Code themes, native token rules, icon styles, editor preferences, and portable appearance profiles.",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Other",
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "syntax highlighting",
+    "semantic tokens",
+    "accessibility",
+    "profiles"
+  ],
+  "main": "./dist/index.cjs",
+  "extensionKind": [
+    "workspace"
+  ],
+  "capabilities": {
+    "untrustedWorkspaces": {
+      "supported": "limited",
+      "description": "Preview and personal profiles are available. Workspace writes and formatter commands require Workspace Trust."
+    },
+    "virtualWorkspaces": {
+      "supported": "limited",
+      "description": "Studio is available on desktop and settings changes depend on the workspace file system."
+    }
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "syntaxcraft.controlCenter.open",
+        "title": "Open Control Center",
+        "category": "SyntaxCraft"
+      },
+      {
+        "command": "syntaxcraft.controlCenter.openColors",
+        "title": "Open Color Studio",
+        "category": "SyntaxCraft"
+      },
+      {
+        "command": "syntaxcraft.controlCenter.openProfiles",
+        "title": "Open Profiles",
+        "category": "SyntaxCraft"
+      }
+    ]
+  },
+  "files": [
+    "dist",
+    "icon.png",
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md"
+  ]
+}

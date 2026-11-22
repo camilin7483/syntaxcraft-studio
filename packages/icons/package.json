@@ -1,0 +1,64 @@
+{
+  "name": "syntaxcraft-icons",
+  "displayName": "SyntaxCraft Icons",
+  "description": "Four file icon themes for SyntaxCraft Studio and a matching workbench icon theme.",
+  "version": "1.0.0",
+  "publisher": "syntaxcraft-studio",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "file icons",
+    "product icons",
+    "syntaxcraft"
+  ],
+  "icon": "icon.png",
+  "scripts": {
+    "build": "node scripts/generate.mjs",
+    "build:product": "python3 scripts/generate-product.py",
+    "test": "node scripts/generate.mjs --check && node --test"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "syntaxcraft-minimal",
+        "label": "SyntaxCraft Minimal",
+        "path": "./themes/minimal-icon-theme.json"
+      },
+      {
+        "id": "syntaxcraft-modern",
+        "label": "SyntaxCraft Modern",
+        "path": "./themes/modern-icon-theme.json"
+      },
+      {
+        "id": "syntaxcraft-neon",
+        "label": "SyntaxCraft Neon",
+        "path": "./themes/neon-icon-theme.json"
+      },
+      {
+        "id": "syntaxcraft-colorful",
+        "label": "SyntaxCraft Colorful",
+        "path": "./themes/colorful-icon-theme.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "syntaxcraft-product",
+        "label": "SyntaxCraft Product",
+        "path": "./themes/syntaxcraft-product-icon-theme.json"
+      }
+    ]
+  },
+  "files": [
+    "themes",
+    "assets",
+    "icon.png",
+    "LICENSE",
+    "CHANGELOG.md",
+    "README.md"
+  ]
+}

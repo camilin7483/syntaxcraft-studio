@@ -1,0 +1,2740 @@
+{
+  "iconDefinitions": {
+    "file": {
+      "iconPath": "../assets/file-icons/minimal/file.svg"
+    },
+    "php": {
+      "iconPath": "../assets/file-icons/minimal/php.svg"
+    },
+    "html": {
+      "iconPath": "../assets/file-icons/minimal/html.svg"
+    },
+    "css": {
+      "iconPath": "../assets/file-icons/minimal/css.svg"
+    },
+    "javascript": {
+      "iconPath": "../assets/file-icons/minimal/javascript.svg"
+    },
+    "typescript": {
+      "iconPath": "../assets/file-icons/minimal/typescript.svg"
+    },
+    "python": {
+      "iconPath": "../assets/file-icons/minimal/python.svg"
+    },
+    "java": {
+      "iconPath": "../assets/file-icons/minimal/java.svg"
+    },
+    "rust": {
+      "iconPath": "../assets/file-icons/minimal/rust.svg"
+    },
+    "sql": {
+      "iconPath": "../assets/file-icons/minimal/sql.svg"
+    },
+    "json": {
+      "iconPath": "../assets/file-icons/minimal/json.svg"
+    },
+    "yaml": {
+      "iconPath": "../assets/file-icons/minimal/yaml.svg"
+    },
+    "toml": {
+      "iconPath": "../assets/file-icons/minimal/toml.svg"
+    },
+    "xml": {
+      "iconPath": "../assets/file-icons/minimal/xml.svg"
+    },
+    "csv": {
+      "iconPath": "../assets/file-icons/minimal/csv.svg"
+    },
+    "react": {
+      "iconPath": "../assets/file-icons/minimal/react.svg"
+    },
+    "vue": {
+      "iconPath": "../assets/file-icons/minimal/vue.svg"
+    },
+    "angular": {
+      "iconPath": "../assets/file-icons/minimal/angular.svg"
+    },
+    "svelte": {
+      "iconPath": "../assets/file-icons/minimal/svelte.svg"
+    },
+    "laravel": {
+      "iconPath": "../assets/file-icons/minimal/laravel.svg"
+    },
+    "docker": {
+      "iconPath": "../assets/file-icons/minimal/docker.svg"
+    },
+    "infra": {
+      "iconPath": "../assets/file-icons/minimal/infra.svg"
+    },
+    "workflow": {
+      "iconPath": "../assets/file-icons/minimal/workflow.svg"
+    },
+    "test": {
+      "iconPath": "../assets/file-icons/minimal/test.svg"
+    },
+    "config": {
+      "iconPath": "../assets/file-icons/minimal/config.svg"
+    },
+    "readme": {
+      "iconPath": "../assets/file-icons/minimal/readme.svg"
+    },
+    "license": {
+      "iconPath": "../assets/file-icons/minimal/license.svg"
+    },
+    "git": {
+      "iconPath": "../assets/file-icons/minimal/git.svg"
+    },
+    "markdown": {
+      "iconPath": "../assets/file-icons/minimal/markdown.svg"
+    },
+    "shell": {
+      "iconPath": "../assets/file-icons/minimal/shell.svg"
+    },
+    "package": {
+      "iconPath": "../assets/file-icons/minimal/package.svg"
+    },
+    "image": {
+      "iconPath": "../assets/file-icons/minimal/image.svg"
+    },
+    "notebook": {
+      "iconPath": "../assets/file-icons/minimal/notebook.svg"
+    },
+    "archive": {
+      "iconPath": "../assets/file-icons/minimal/archive.svg"
+    },
+    "go": {
+      "iconPath": "../assets/file-icons/minimal/go.svg"
+    },
+    "ruby": {
+      "iconPath": "../assets/file-icons/minimal/ruby.svg"
+    },
+    "swift": {
+      "iconPath": "../assets/file-icons/minimal/swift.svg"
+    },
+    "kotlin": {
+      "iconPath": "../assets/file-icons/minimal/kotlin.svg"
+    },
+    "c": {
+      "iconPath": "../assets/file-icons/minimal/c.svg"
+    },
+    "cpp": {
+      "iconPath": "../assets/file-icons/minimal/cpp.svg"
+    },
+    "csharp": {
+      "iconPath": "../assets/file-icons/minimal/csharp.svg"
+    },
+    "build": {
+      "iconPath": "../assets/file-icons/minimal/build.svg"
+    },
+    "folder": {
+      "iconPath": "../assets/file-icons/minimal/folder.svg"
+    },
+    "folder-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-open.svg"
+    },
+    "root-folder": {
+      "iconPath": "../assets/file-icons/minimal/root-folder.svg"
+    },
+    "root-folder-open": {
+      "iconPath": "../assets/file-icons/minimal/root-folder-open.svg"
+    },
+    "folder-src": {
+      "iconPath": "../assets/file-icons/minimal/folder-src.svg"
+    },
+    "folder-src-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-src-open.svg"
+    },
+    "folder-public": {
+      "iconPath": "../assets/file-icons/minimal/folder-public.svg"
+    },
+    "folder-public-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-public-open.svg"
+    },
+    "folder-assets": {
+      "iconPath": "../assets/file-icons/minimal/folder-assets.svg"
+    },
+    "folder-assets-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-assets-open.svg"
+    },
+    "folder-components": {
+      "iconPath": "../assets/file-icons/minimal/folder-components.svg"
+    },
+    "folder-components-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-components-open.svg"
+    },
+    "folder-services": {
+      "iconPath": "../assets/file-icons/minimal/folder-services.svg"
+    },
+    "folder-services-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-services-open.svg"
+    },
+    "folder-controllers": {
+      "iconPath": "../assets/file-icons/minimal/folder-controllers.svg"
+    },
+    "folder-controllers-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-controllers-open.svg"
+    },
+    "folder-models": {
+      "iconPath": "../assets/file-icons/minimal/folder-models.svg"
+    },
+    "folder-models-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-models-open.svg"
+    },
+    "folder-views": {
+      "iconPath": "../assets/file-icons/minimal/folder-views.svg"
+    },
+    "folder-views-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-views-open.svg"
+    },
+    "folder-routes": {
+      "iconPath": "../assets/file-icons/minimal/folder-routes.svg"
+    },
+    "folder-routes-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-routes-open.svg"
+    },
+    "folder-database": {
+      "iconPath": "../assets/file-icons/minimal/folder-database.svg"
+    },
+    "folder-database-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-database-open.svg"
+    },
+    "folder-tests": {
+      "iconPath": "../assets/file-icons/minimal/folder-tests.svg"
+    },
+    "folder-tests-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-tests-open.svg"
+    },
+    "folder-config": {
+      "iconPath": "../assets/file-icons/minimal/folder-config.svg"
+    },
+    "folder-config-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-config-open.svg"
+    },
+    "folder-scripts": {
+      "iconPath": "../assets/file-icons/minimal/folder-scripts.svg"
+    },
+    "folder-scripts-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-scripts-open.svg"
+    },
+    "folder-docs": {
+      "iconPath": "../assets/file-icons/minimal/folder-docs.svg"
+    },
+    "folder-docs-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-docs-open.svg"
+    },
+    "folder-hooks": {
+      "iconPath": "../assets/file-icons/minimal/folder-hooks.svg"
+    },
+    "folder-hooks-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-hooks-open.svg"
+    },
+    "folder-utilities": {
+      "iconPath": "../assets/file-icons/minimal/folder-utilities.svg"
+    },
+    "folder-utilities-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-utilities-open.svg"
+    },
+    "folder-api": {
+      "iconPath": "../assets/file-icons/minimal/folder-api.svg"
+    },
+    "folder-api-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-api-open.svg"
+    },
+    "folder-packages": {
+      "iconPath": "../assets/file-icons/minimal/folder-packages.svg"
+    },
+    "folder-packages-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-packages-open.svg"
+    },
+    "folder-build": {
+      "iconPath": "../assets/file-icons/minimal/folder-build.svg"
+    },
+    "folder-build-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-build-open.svg"
+    },
+    "folder-workflows": {
+      "iconPath": "../assets/file-icons/minimal/folder-workflows.svg"
+    },
+    "folder-workflows-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-workflows-open.svg"
+    },
+    "folder-git": {
+      "iconPath": "../assets/file-icons/minimal/folder-git.svg"
+    },
+    "folder-git-open": {
+      "iconPath": "../assets/file-icons/minimal/folder-git-open.svg"
+    },
+    "file-light": {
+      "iconPath": "../assets/file-icons/minimal/light/file.svg"
+    },
+    "php-light": {
+      "iconPath": "../assets/file-icons/minimal/light/php.svg"
+    },
+    "html-light": {
+      "iconPath": "../assets/file-icons/minimal/light/html.svg"
+    },
+    "css-light": {
+      "iconPath": "../assets/file-icons/minimal/light/css.svg"
+    },
+    "javascript-light": {
+      "iconPath": "../assets/file-icons/minimal/light/javascript.svg"
+    },
+    "typescript-light": {
+      "iconPath": "../assets/file-icons/minimal/light/typescript.svg"
+    },
+    "python-light": {
+      "iconPath": "../assets/file-icons/minimal/light/python.svg"
+    },
+    "java-light": {
+      "iconPath": "../assets/file-icons/minimal/light/java.svg"
+    },
+    "rust-light": {
+      "iconPath": "../assets/file-icons/minimal/light/rust.svg"
+    },
+    "sql-light": {
+      "iconPath": "../assets/file-icons/minimal/light/sql.svg"
+    },
+    "json-light": {
+      "iconPath": "../assets/file-icons/minimal/light/json.svg"
+    },
+    "yaml-light": {
+      "iconPath": "../assets/file-icons/minimal/light/yaml.svg"
+    },
+    "toml-light": {
+      "iconPath": "../assets/file-icons/minimal/light/toml.svg"
+    },
+    "xml-light": {
+      "iconPath": "../assets/file-icons/minimal/light/xml.svg"
+    },
+    "csv-light": {
+      "iconPath": "../assets/file-icons/minimal/light/csv.svg"
+    },
+    "react-light": {
+      "iconPath": "../assets/file-icons/minimal/light/react.svg"
+    },
+    "vue-light": {
+      "iconPath": "../assets/file-icons/minimal/light/vue.svg"
+    },
+    "angular-light": {
+      "iconPath": "../assets/file-icons/minimal/light/angular.svg"
+    },
+    "svelte-light": {
+      "iconPath": "../assets/file-icons/minimal/light/svelte.svg"
+    },
+    "laravel-light": {
+      "iconPath": "../assets/file-icons/minimal/light/laravel.svg"
+    },
+    "docker-light": {
+      "iconPath": "../assets/file-icons/minimal/light/docker.svg"
+    },
+    "infra-light": {
+      "iconPath": "../assets/file-icons/minimal/light/infra.svg"
+    },
+    "workflow-light": {
+      "iconPath": "../assets/file-icons/minimal/light/workflow.svg"
+    },
+    "test-light": {
+      "iconPath": "../assets/file-icons/minimal/light/test.svg"
+    },
+    "config-light": {
+      "iconPath": "../assets/file-icons/minimal/light/config.svg"
+    },
+    "readme-light": {
+      "iconPath": "../assets/file-icons/minimal/light/readme.svg"
+    },
+    "license-light": {
+      "iconPath": "../assets/file-icons/minimal/light/license.svg"
+    },
+    "git-light": {
+      "iconPath": "../assets/file-icons/minimal/light/git.svg"
+    },
+    "markdown-light": {
+      "iconPath": "../assets/file-icons/minimal/light/markdown.svg"
+    },
+    "shell-light": {
+      "iconPath": "../assets/file-icons/minimal/light/shell.svg"
+    },
+    "package-light": {
+      "iconPath": "../assets/file-icons/minimal/light/package.svg"
+    },
+    "image-light": {
+      "iconPath": "../assets/file-icons/minimal/light/image.svg"
+    },
+    "notebook-light": {
+      "iconPath": "../assets/file-icons/minimal/light/notebook.svg"
+    },
+    "archive-light": {
+      "iconPath": "../assets/file-icons/minimal/light/archive.svg"
+    },
+    "go-light": {
+      "iconPath": "../assets/file-icons/minimal/light/go.svg"
+    },
+    "ruby-light": {
+      "iconPath": "../assets/file-icons/minimal/light/ruby.svg"
+    },
+    "swift-light": {
+      "iconPath": "../assets/file-icons/minimal/light/swift.svg"
+    },
+    "kotlin-light": {
+      "iconPath": "../assets/file-icons/minimal/light/kotlin.svg"
+    },
+    "c-light": {
+      "iconPath": "../assets/file-icons/minimal/light/c.svg"
+    },
+    "cpp-light": {
+      "iconPath": "../assets/file-icons/minimal/light/cpp.svg"
+    },
+    "csharp-light": {
+      "iconPath": "../assets/file-icons/minimal/light/csharp.svg"
+    },
+    "build-light": {
+      "iconPath": "../assets/file-icons/minimal/light/build.svg"
+    },
+    "folder-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder.svg"
+    },
+    "folder-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-open.svg"
+    },
+    "root-folder-light": {
+      "iconPath": "../assets/file-icons/minimal/light/root-folder.svg"
+    },
+    "root-folder-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/root-folder-open.svg"
+    },
+    "folder-src-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-src.svg"
+    },
+    "folder-src-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-src-open.svg"
+    },
+    "folder-public-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-public.svg"
+    },
+    "folder-public-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-public-open.svg"
+    },
+    "folder-assets-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-assets.svg"
+    },
+    "folder-assets-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-assets-open.svg"
+    },
+    "folder-components-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-components.svg"
+    },
+    "folder-components-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-components-open.svg"
+    },
+    "folder-services-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-services.svg"
+    },
+    "folder-services-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-services-open.svg"
+    },
+    "folder-controllers-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-controllers.svg"
+    },
+    "folder-controllers-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-controllers-open.svg"
+    },
+    "folder-models-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-models.svg"
+    },
+    "folder-models-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-models-open.svg"
+    },
+    "folder-views-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-views.svg"
+    },
+    "folder-views-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-views-open.svg"
+    },
+    "folder-routes-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-routes.svg"
+    },
+    "folder-routes-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-routes-open.svg"
+    },
+    "folder-database-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-database.svg"
+    },
+    "folder-database-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-database-open.svg"
+    },
+    "folder-tests-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-tests.svg"
+    },
+    "folder-tests-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-tests-open.svg"
+    },
+    "folder-config-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-config.svg"
+    },
+    "folder-config-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-config-open.svg"
+    },
+    "folder-scripts-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-scripts.svg"
+    },
+    "folder-scripts-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-scripts-open.svg"
+    },
+    "folder-docs-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-docs.svg"
+    },
+    "folder-docs-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-docs-open.svg"
+    },
+    "folder-hooks-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-hooks.svg"
+    },
+    "folder-hooks-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-hooks-open.svg"
+    },
+    "folder-utilities-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-utilities.svg"
+    },
+    "folder-utilities-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-utilities-open.svg"
+    },
+    "folder-api-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-api.svg"
+    },
+    "folder-api-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-api-open.svg"
+    },
+    "folder-packages-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-packages.svg"
+    },
+    "folder-packages-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-packages-open.svg"
+    },
+    "folder-build-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-build.svg"
+    },
+    "folder-build-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-build-open.svg"
+    },
+    "folder-workflows-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-workflows.svg"
+    },
+    "folder-workflows-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-workflows-open.svg"
+    },
+    "folder-git-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-git.svg"
+    },
+    "folder-git-open-light": {
+      "iconPath": "../assets/file-icons/minimal/light/folder-git-open.svg"
+    },
+    "file-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/file.svg"
+    },
+    "php-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/php.svg"
+    },
+    "html-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/html.svg"
+    },
+    "css-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/css.svg"
+    },
+    "javascript-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/javascript.svg"
+    },
+    "typescript-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/typescript.svg"
+    },
+    "python-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/python.svg"
+    },
+    "java-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/java.svg"
+    },
+    "rust-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/rust.svg"
+    },
+    "sql-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/sql.svg"
+    },
+    "json-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/json.svg"
+    },
+    "yaml-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/yaml.svg"
+    },
+    "toml-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/toml.svg"
+    },
+    "xml-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/xml.svg"
+    },
+    "csv-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/csv.svg"
+    },
+    "react-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/react.svg"
+    },
+    "vue-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/vue.svg"
+    },
+    "angular-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/angular.svg"
+    },
+    "svelte-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/svelte.svg"
+    },
+    "laravel-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/laravel.svg"
+    },
+    "docker-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/docker.svg"
+    },
+    "infra-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/infra.svg"
+    },
+    "workflow-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/workflow.svg"
+    },
+    "test-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/test.svg"
+    },
+    "config-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/config.svg"
+    },
+    "readme-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/readme.svg"
+    },
+    "license-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/license.svg"
+    },
+    "git-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/git.svg"
+    },
+    "markdown-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/markdown.svg"
+    },
+    "shell-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/shell.svg"
+    },
+    "package-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/package.svg"
+    },
+    "image-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/image.svg"
+    },
+    "notebook-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/notebook.svg"
+    },
+    "archive-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/archive.svg"
+    },
+    "go-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/go.svg"
+    },
+    "ruby-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/ruby.svg"
+    },
+    "swift-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/swift.svg"
+    },
+    "kotlin-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/kotlin.svg"
+    },
+    "c-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/c.svg"
+    },
+    "cpp-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/cpp.svg"
+    },
+    "csharp-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/csharp.svg"
+    },
+    "build-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/build.svg"
+    },
+    "folder-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder.svg"
+    },
+    "folder-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-open.svg"
+    },
+    "root-folder-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/root-folder.svg"
+    },
+    "root-folder-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/root-folder-open.svg"
+    },
+    "folder-src-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-src.svg"
+    },
+    "folder-src-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-src-open.svg"
+    },
+    "folder-public-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-public.svg"
+    },
+    "folder-public-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-public-open.svg"
+    },
+    "folder-assets-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-assets.svg"
+    },
+    "folder-assets-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-assets-open.svg"
+    },
+    "folder-components-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-components.svg"
+    },
+    "folder-components-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-components-open.svg"
+    },
+    "folder-services-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-services.svg"
+    },
+    "folder-services-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-services-open.svg"
+    },
+    "folder-controllers-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-controllers.svg"
+    },
+    "folder-controllers-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-controllers-open.svg"
+    },
+    "folder-models-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-models.svg"
+    },
+    "folder-models-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-models-open.svg"
+    },
+    "folder-views-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-views.svg"
+    },
+    "folder-views-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-views-open.svg"
+    },
+    "folder-routes-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-routes.svg"
+    },
+    "folder-routes-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-routes-open.svg"
+    },
+    "folder-database-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-database.svg"
+    },
+    "folder-database-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-database-open.svg"
+    },
+    "folder-tests-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-tests.svg"
+    },
+    "folder-tests-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-tests-open.svg"
+    },
+    "folder-config-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-config.svg"
+    },
+    "folder-config-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-config-open.svg"
+    },
+    "folder-scripts-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-scripts.svg"
+    },
+    "folder-scripts-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-scripts-open.svg"
+    },
+    "folder-docs-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-docs.svg"
+    },
+    "folder-docs-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-docs-open.svg"
+    },
+    "folder-hooks-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-hooks.svg"
+    },
+    "folder-hooks-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-hooks-open.svg"
+    },
+    "folder-utilities-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-utilities.svg"
+    },
+    "folder-utilities-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-utilities-open.svg"
+    },
+    "folder-api-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-api.svg"
+    },
+    "folder-api-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-api-open.svg"
+    },
+    "folder-packages-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-packages.svg"
+    },
+    "folder-packages-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-packages-open.svg"
+    },
+    "folder-build-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-build.svg"
+    },
+    "folder-build-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-build-open.svg"
+    },
+    "folder-workflows-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-workflows.svg"
+    },
+    "folder-workflows-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-workflows-open.svg"
+    },
+    "folder-git-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-git.svg"
+    },
+    "folder-git-open-high-contrast": {
+      "iconPath": "../assets/file-icons/minimal/high-contrast/folder-git-open.svg"
+    }
+  },
+  "file": "file",
+  "folder": "folder",
+  "folderExpanded": "folder-open",
+  "rootFolder": "root-folder",
+  "rootFolderExpanded": "root-folder-open",
+  "fileExtensions": {
+    "php": "php",
+    "php3": "php",
+    "php4": "php",
+    "php5": "php",
+    "phtml": "php",
+    "phps": "php",
+    "html": "html",
+    "htm": "html",
+    "xhtml": "html",
+    "css": "css",
+    "scss": "css",
+    "sass": "css",
+    "less": "css",
+    "styl": "css",
+    "js": "javascript",
+    "mjs": "javascript",
+    "cjs": "javascript",
+    "es6": "javascript",
+    "ts": "typescript",
+    "mts": "typescript",
+    "cts": "typescript",
+    "py": "python",
+    "pyi": "python",
+    "pyw": "python",
+    "pyx": "python",
+    "java": "java",
+    "class": "java",
+    "rs": "rust",
+    "sql": "sql",
+    "plsql": "sql",
+    "psql": "sql",
+    "sqlite": "sql",
+    "sqlite3": "sql",
+    "db": "sql",
+    "json": "json",
+    "jsonc": "json",
+    "json5": "json",
+    "hjson": "json",
+    "yaml": "yaml",
+    "yml": "yaml",
+    "toml": "toml",
+    "xml": "xml",
+    "xsd": "xml",
+    "xsl": "xml",
+    "xslt": "xml",
+    "dtd": "xml",
+    "plist": "xml",
+    "csv": "csv",
+    "tsv": "csv",
+    "psv": "csv",
+    "jsx": "react",
+    "tsx": "react",
+    "vue": "vue",
+    "component.ts": "angular",
+    "component.html": "angular",
+    "component.css": "angular",
+    "component.scss": "angular",
+    "directive.ts": "angular",
+    "pipe.ts": "angular",
+    "svelte": "svelte",
+    "blade.php": "laravel",
+    "blade": "laravel",
+    "dockerfile": "docker",
+    "containerfile": "docker",
+    "tf": "infra",
+    "tfvars": "infra",
+    "tfstate": "infra",
+    "hcl": "infra",
+    "rego": "infra",
+    "nix": "infra",
+    "bicep": "infra",
+    "pp": "infra",
+    "workflows/yml": "workflow",
+    "workflows/yaml": "workflow",
+    "test.js": "test",
+    "test.mjs": "test",
+    "test.cjs": "test",
+    "test.jsx": "test",
+    "test.ts": "test",
+    "test.mts": "test",
+    "test.cts": "test",
+    "test.tsx": "test",
+    "spec.js": "test",
+    "spec.mjs": "test",
+    "spec.cjs": "test",
+    "spec.jsx": "test",
+    "spec.ts": "test",
+    "spec.mts": "test",
+    "spec.cts": "test",
+    "spec.tsx": "test",
+    "cy.js": "test",
+    "cy.mjs": "test",
+    "cy.cjs": "test",
+    "cy.jsx": "test",
+    "cy.ts": "test",
+    "cy.mts": "test",
+    "cy.cts": "test",
+    "cy.tsx": "test",
+    "e2e.js": "test",
+    "e2e.mjs": "test",
+    "e2e.cjs": "test",
+    "e2e.jsx": "test",
+    "e2e.ts": "test",
+    "e2e.mts": "test",
+    "e2e.cts": "test",
+    "e2e.tsx": "test",
+    "tests/py": "test",
+    "test/py": "test",
+    "tests/php": "test",
+    "tests/java": "test",
+    "tests/rs": "test",
+    "conf": "config",
+    "cfg": "config",
+    "ini": "config",
+    "properties": "config",
+    "editorconfig": "config",
+    "env": "config",
+    "md": "markdown",
+    "markdown": "markdown",
+    "mdx": "markdown",
+    "mdown": "markdown",
+    "mkd": "markdown",
+    "sh": "shell",
+    "bash": "shell",
+    "zsh": "shell",
+    "fish": "shell",
+    "ps1": "shell",
+    "psm1": "shell",
+    "bat": "shell",
+    "cmd": "shell",
+    "svg": "image",
+    "png": "image",
+    "webp": "image",
+    "jpeg": "image",
+    "jpg": "image",
+    "gif": "image",
+    "ico": "image",
+    "avif": "image",
+    "bmp": "image",
+    "tiff": "image",
+    "ipynb": "notebook",
+    "qmd": "notebook",
+    "rmd": "notebook",
+    "zip": "archive",
+    "tar": "archive",
+    "gz": "archive",
+    "bz2": "archive",
+    "7z": "archive",
+    "jar": "archive",
+    "rar": "archive",
+    "xz": "archive",
+    "tgz": "archive",
+    "vsix": "archive",
+    "go": "go",
+    "rb": "ruby",
+    "erb": "ruby",
+    "rake": "ruby",
+    "gemspec": "ruby",
+    "swift": "swift",
+    "kt": "kotlin",
+    "kts": "kotlin",
+    "c": "c",
+    "h": "c",
+    "cc": "cpp",
+    "cpp": "cpp",
+    "cxx": "cpp",
+    "hh": "cpp",
+    "hpp": "cpp",
+    "hxx": "cpp",
+    "inl": "cpp",
+    "cs": "csharp",
+    "csx": "csharp",
+    "csproj": "csharp",
+    "sln": "csharp",
+    "slnx": "csharp",
+    "cmake": "build",
+    "gradle": "build",
+    "mk": "build",
+    "bazel": "build"
+  },
+  "fileNames": {
+    ".python-version": "python",
+    "requirements.txt": "python",
+    "pipfile": "python",
+    "pipfile.lock": "python",
+    "cargo.toml": "rust",
+    "cargo.lock": "rust",
+    "rust-toolchain": "rust",
+    "rust-toolchain.toml": "rust",
+    "angular.json": "angular",
+    ".angular-cli.json": "angular",
+    "ng-package.json": "angular",
+    "svelte.config.js": "svelte",
+    "svelte.config.mjs": "svelte",
+    "svelte.config.cjs": "svelte",
+    "svelte.config.jsx": "svelte",
+    "svelte.config.ts": "svelte",
+    "svelte.config.mts": "svelte",
+    "svelte.config.cts": "svelte",
+    "svelte.config.tsx": "svelte",
+    "artisan": "laravel",
+    "pint.json": "laravel",
+    "dockerfile": "docker",
+    "dockerfile.dev": "docker",
+    "dockerfile.prod": "docker",
+    "dockerfile.test": "docker",
+    "containerfile": "docker",
+    "containerfile.dev": "docker",
+    "containerfile.prod": "docker",
+    "docker-compose.yml": "docker",
+    "docker-compose.yaml": "docker",
+    "docker-compose.override.yml": "docker",
+    "docker-compose.override.yaml": "docker",
+    "compose.yml": "docker",
+    "compose.yaml": "docker",
+    "compose.override.yml": "docker",
+    "compose.override.yaml": "docker",
+    ".dockerignore": "docker",
+    ".containerignore": "docker",
+    "vagrantfile": "infra",
+    "procfile": "infra",
+    "kustomization.yaml": "infra",
+    "helmfile.yaml": "infra",
+    "chart.yaml": "infra",
+    ".gitlab-ci.yml": "workflow",
+    ".travis.yml": "workflow",
+    "jenkinsfile": "workflow",
+    "azure-pipelines.yml": "workflow",
+    "bitbucket-pipelines.yml": "workflow",
+    ".circleci/config.yml": "workflow",
+    ".circleci/config.yaml": "workflow",
+    "vitest.config.js": "test",
+    "vitest.config.mjs": "test",
+    "vitest.config.cjs": "test",
+    "vitest.config.jsx": "test",
+    "vitest.config.ts": "test",
+    "vitest.config.mts": "test",
+    "vitest.config.cts": "test",
+    "vitest.config.tsx": "test",
+    "jest.config.js": "test",
+    "jest.config.mjs": "test",
+    "jest.config.cjs": "test",
+    "jest.config.jsx": "test",
+    "jest.config.ts": "test",
+    "jest.config.mts": "test",
+    "jest.config.cts": "test",
+    "jest.config.tsx": "test",
+    "playwright.config.js": "test",
+    "playwright.config.mjs": "test",
+    "playwright.config.cjs": "test",
+    "playwright.config.jsx": "test",
+    "playwright.config.ts": "test",
+    "playwright.config.mts": "test",
+    "playwright.config.cts": "test",
+    "playwright.config.tsx": "test",
+    "cypress.config.js": "test",
+    "cypress.config.mjs": "test",
+    "cypress.config.cjs": "test",
+    "cypress.config.jsx": "test",
+    "cypress.config.ts": "test",
+    "cypress.config.mts": "test",
+    "cypress.config.cts": "test",
+    "cypress.config.tsx": "test",
+    "phpunit.xml": "test",
+    "phpunit.xml.dist": "test",
+    "phpunit.dist.xml": "test",
+    "pytest.ini": "test",
+    "conftest.py": "test",
+    "vite.config.js": "config",
+    "vite.config.mjs": "config",
+    "vite.config.cjs": "config",
+    "vite.config.jsx": "config",
+    "vite.config.ts": "config",
+    "vite.config.mts": "config",
+    "vite.config.cts": "config",
+    "vite.config.tsx": "config",
+    "webpack.config.js": "config",
+    "webpack.config.mjs": "config",
+    "webpack.config.cjs": "config",
+    "webpack.config.jsx": "config",
+    "webpack.config.ts": "config",
+    "webpack.config.mts": "config",
+    "webpack.config.cts": "config",
+    "webpack.config.tsx": "config",
+    "next.config.js": "config",
+    "next.config.mjs": "config",
+    "next.config.cjs": "config",
+    "next.config.jsx": "config",
+    "next.config.ts": "config",
+    "next.config.mts": "config",
+    "next.config.cts": "config",
+    "next.config.tsx": "config",
+    "postcss.config.js": "config",
+    "postcss.config.mjs": "config",
+    "postcss.config.cjs": "config",
+    "postcss.config.jsx": "config",
+    "postcss.config.ts": "config",
+    "postcss.config.mts": "config",
+    "postcss.config.cts": "config",
+    "postcss.config.tsx": "config",
+    "eslint.config.js": "config",
+    "eslint.config.mjs": "config",
+    "eslint.config.cjs": "config",
+    "eslint.config.jsx": "config",
+    "eslint.config.ts": "config",
+    "eslint.config.mts": "config",
+    "eslint.config.cts": "config",
+    "eslint.config.tsx": "config",
+    "prettier.config.js": "config",
+    "prettier.config.mjs": "config",
+    "prettier.config.cjs": "config",
+    "prettier.config.jsx": "config",
+    "prettier.config.ts": "config",
+    "prettier.config.mts": "config",
+    "prettier.config.cts": "config",
+    "prettier.config.tsx": "config",
+    "tailwind.config.js": "config",
+    "tailwind.config.mjs": "config",
+    "tailwind.config.cjs": "config",
+    "tailwind.config.jsx": "config",
+    "tailwind.config.ts": "config",
+    "tailwind.config.mts": "config",
+    "tailwind.config.cts": "config",
+    "tailwind.config.tsx": "config",
+    "rollup.config.js": "config",
+    "rollup.config.mjs": "config",
+    "rollup.config.cjs": "config",
+    "rollup.config.jsx": "config",
+    "rollup.config.ts": "config",
+    "rollup.config.mts": "config",
+    "rollup.config.cts": "config",
+    "rollup.config.tsx": "config",
+    "nuxt.config.js": "config",
+    "nuxt.config.mjs": "config",
+    "nuxt.config.cjs": "config",
+    "nuxt.config.jsx": "config",
+    "nuxt.config.ts": "config",
+    "nuxt.config.mts": "config",
+    "nuxt.config.cts": "config",
+    "nuxt.config.tsx": "config",
+    "astro.config.js": "config",
+    "astro.config.mjs": "config",
+    "astro.config.cjs": "config",
+    "astro.config.jsx": "config",
+    "astro.config.ts": "config",
+    "astro.config.mts": "config",
+    "astro.config.cts": "config",
+    "astro.config.tsx": "config",
+    ".env": "config",
+    ".env.local": "config",
+    ".env.example": "config",
+    ".env.development": "config",
+    ".env.test": "config",
+    ".env.production": "config",
+    ".editorconfig": "config",
+    ".prettierrc": "config",
+    ".prettierrc.json": "config",
+    ".prettierrc.yaml": "config",
+    ".prettierignore": "config",
+    ".eslintrc": "config",
+    ".eslintrc.json": "config",
+    ".eslintrc.yml": "config",
+    ".eslintrc.yaml": "config",
+    ".eslintignore": "config",
+    ".babelrc": "config",
+    ".npmrc": "config",
+    ".yarnrc": "config",
+    ".yarnrc.yml": "config",
+    ".stylelintrc": "config",
+    "biome.json": "config",
+    "biome.jsonc": "config",
+    "jsconfig.json": "config",
+    "tsconfig.json": "config",
+    "tsconfig.app.json": "config",
+    "tsconfig.build.json": "config",
+    "tsconfig.node.json": "config",
+    "settings.json": "config",
+    ".vscode/settings.json": "config",
+    ".vscode/launch.json": "config",
+    ".vscode/tasks.json": "config",
+    ".vscode/extensions.json": "config",
+    "readme": "readme",
+    "readme.md": "readme",
+    "readme.markdown": "readme",
+    "readme.rst": "readme",
+    "readme.txt": "readme",
+    "readme.mdx": "readme",
+    "license": "license",
+    "license.md": "license",
+    "license.txt": "license",
+    "license-mit": "license",
+    "license-apache": "license",
+    "licence": "license",
+    "licence.md": "license",
+    "licence.txt": "license",
+    "copying": "license",
+    "copying.txt": "license",
+    "notice": "license",
+    "notice.txt": "license",
+    ".gitignore": "git",
+    ".gitmodules": "git",
+    ".gitattributes": "git",
+    ".gitconfig": "git",
+    ".git-blame-ignore-revs": "git",
+    ".gitkeep": "git",
+    ".mailmap": "git",
+    "commit_editmsg": "git",
+    "git-rebase-todo": "git",
+    ".bashrc": "shell",
+    ".zshrc": "shell",
+    ".bash_profile": "shell",
+    ".profile": "shell",
+    "config.fish": "shell",
+    "package.json": "package",
+    "package-lock.json": "package",
+    "npm-shrinkwrap.json": "package",
+    "pnpm-lock.yaml": "package",
+    "pnpm-workspace.yaml": "package",
+    "yarn.lock": "package",
+    "bun.lock": "package",
+    "bun.lockb": "package",
+    "composer.json": "package",
+    "composer.lock": "package",
+    "gemfile": "package",
+    "gemfile.lock": "package",
+    "pyproject.toml": "package",
+    "poetry.lock": "package",
+    "uv.lock": "package",
+    "go.mod": "package",
+    "go.sum": "package",
+    "deno.json": "package",
+    "deno.jsonc": "package",
+    "rakefile": "ruby",
+    ".ruby-version": "ruby",
+    "makefile": "build",
+    "gnumakefile": "build",
+    "cmakelists.txt": "build",
+    "build": "build",
+    "workspace": "build",
+    "justfile": "build"
+  },
+  "languageIds": {
+    "php": "php",
+    "html": "html",
+    "css": "css",
+    "scss": "css",
+    "sass": "css",
+    "less": "css",
+    "stylus": "css",
+    "javascript": "javascript",
+    "typescript": "typescript",
+    "python": "python",
+    "java": "java",
+    "rust": "rust",
+    "sql": "sql",
+    "plsql": "sql",
+    "json": "json",
+    "jsonc": "json",
+    "json5": "json",
+    "yaml": "yaml",
+    "toml": "toml",
+    "xml": "xml",
+    "xsl": "xml",
+    "csv": "csv",
+    "tsv": "csv",
+    "javascriptreact": "react",
+    "typescriptreact": "react",
+    "vue": "vue",
+    "angular-html": "angular",
+    "angular": "angular",
+    "svelte": "svelte",
+    "blade": "laravel",
+    "laravel-blade": "laravel",
+    "dockerfile": "docker",
+    "dockercompose": "docker",
+    "terraform": "infra",
+    "terraform-vars": "infra",
+    "hcl": "infra",
+    "rego": "infra",
+    "nix": "infra",
+    "bicep": "infra",
+    "ini": "config",
+    "properties": "config",
+    "dotenv": "config",
+    "git-commit": "git",
+    "git-rebase": "git",
+    "ignore": "git",
+    "markdown": "markdown",
+    "mdx": "markdown",
+    "shellscript": "shell",
+    "powershell": "shell",
+    "bat": "shell",
+    "svg": "image",
+    "go": "go",
+    "ruby": "ruby",
+    "erb": "ruby",
+    "swift": "swift",
+    "kotlin": "kotlin",
+    "c": "c",
+    "cpp": "cpp",
+    "csharp": "csharp",
+    "makefile": "build",
+    "cmake": "build"
+  },
+  "folderNames": {
+    "src": "folder-src",
+    "source": "folder-src",
+    "app": "folder-src",
+    "public": "folder-public",
+    "static": "folder-public",
+    "assets": "folder-assets",
+    "images": "folder-assets",
+    "media": "folder-assets",
+    "fonts": "folder-assets",
+    "components": "folder-components",
+    "widgets": "folder-components",
+    "ui": "folder-components",
+    "services": "folder-services",
+    "service": "folder-services",
+    "controllers": "folder-controllers",
+    "controller": "folder-controllers",
+    "models": "folder-models",
+    "model": "folder-models",
+    "entities": "folder-models",
+    "views": "folder-views",
+    "view": "folder-views",
+    "templates": "folder-views",
+    "pages": "folder-views",
+    "routes": "folder-routes",
+    "routing": "folder-routes",
+    "database": "folder-database",
+    "db": "folder-database",
+    "migrations": "folder-database",
+    "seeds": "folder-database",
+    "seeders": "folder-database",
+    "tests": "folder-tests",
+    "test": "folder-tests",
+    "__tests__": "folder-tests",
+    "spec": "folder-tests",
+    "specs": "folder-tests",
+    "e2e": "folder-tests",
+    "config": "folder-config",
+    "configs": "folder-config",
+    "configuration": "folder-config",
+    ".vscode": "folder-config",
+    "scripts": "folder-scripts",
+    "script": "folder-scripts",
+    "bin": "folder-scripts",
+    "docs": "folder-docs",
+    "doc": "folder-docs",
+    "documentation": "folder-docs",
+    "hooks": "folder-hooks",
+    "composables": "folder-hooks",
+    "utilities": "folder-utilities",
+    "utils": "folder-utilities",
+    "helpers": "folder-utilities",
+    "api": "folder-api",
+    "apis": "folder-api",
+    "endpoints": "folder-api",
+    "packages": "folder-packages",
+    "vendor": "folder-packages",
+    "node_modules": "folder-packages",
+    "build": "folder-build",
+    "dist": "folder-build",
+    "out": "folder-build",
+    "coverage": "folder-build",
+    ".github": "folder-workflows",
+    ".gitlab": "folder-workflows",
+    ".circleci": "folder-workflows",
+    "workflows": "folder-workflows",
+    ".git": "folder-git"
+  },
+  "folderNamesExpanded": {
+    "src": "folder-src-open",
+    "source": "folder-src-open",
+    "app": "folder-src-open",
+    "public": "folder-public-open",
+    "static": "folder-public-open",
+    "assets": "folder-assets-open",
+    "images": "folder-assets-open",
+    "media": "folder-assets-open",
+    "fonts": "folder-assets-open",
+    "components": "folder-components-open",
+    "widgets": "folder-components-open",
+    "ui": "folder-components-open",
+    "services": "folder-services-open",
+    "service": "folder-services-open",
+    "controllers": "folder-controllers-open",
+    "controller": "folder-controllers-open",
+    "models": "folder-models-open",
+    "model": "folder-models-open",
+    "entities": "folder-models-open",
+    "views": "folder-views-open",
+    "view": "folder-views-open",
+    "templates": "folder-views-open",
+    "pages": "folder-views-open",
+    "routes": "folder-routes-open",
+    "routing": "folder-routes-open",
+    "database": "folder-database-open",
+    "db": "folder-database-open",
+    "migrations": "folder-database-open",
+    "seeds": "folder-database-open",
+    "seeders": "folder-database-open",
+    "tests": "folder-tests-open",
+    "test": "folder-tests-open",
+    "__tests__": "folder-tests-open",
+    "spec": "folder-tests-open",
+    "specs": "folder-tests-open",
+    "e2e": "folder-tests-open",
+    "config": "folder-config-open",
+    "configs": "folder-config-open",
+    "configuration": "folder-config-open",
+    ".vscode": "folder-config-open",
+    "scripts": "folder-scripts-open",
+    "script": "folder-scripts-open",
+    "bin": "folder-scripts-open",
+    "docs": "folder-docs-open",
+    "doc": "folder-docs-open",
+    "documentation": "folder-docs-open",
+    "hooks": "folder-hooks-open",
+    "composables": "folder-hooks-open",
+    "utilities": "folder-utilities-open",
+    "utils": "folder-utilities-open",
+    "helpers": "folder-utilities-open",
+    "api": "folder-api-open",
+    "apis": "folder-api-open",
+    "endpoints": "folder-api-open",
+    "packages": "folder-packages-open",
+    "vendor": "folder-packages-open",
+    "node_modules": "folder-packages-open",
+    "build": "folder-build-open",
+    "dist": "folder-build-open",
+    "out": "folder-build-open",
+    "coverage": "folder-build-open",
+    ".github": "folder-workflows-open",
+    ".gitlab": "folder-workflows-open",
+    ".circleci": "folder-workflows-open",
+    "workflows": "folder-workflows-open",
+    ".git": "folder-git-open"
+  },
+  "light": {
+    "file": "file-light",
+    "folder": "folder-light",
+    "folderExpanded": "folder-open-light",
+    "rootFolder": "root-folder-light",
+    "rootFolderExpanded": "root-folder-open-light",
+    "fileExtensions": {
+      "php": "php-light",
+      "php3": "php-light",
+      "php4": "php-light",
+      "php5": "php-light",
+      "phtml": "php-light",
+      "phps": "php-light",
+      "html": "html-light",
+      "htm": "html-light",
+      "xhtml": "html-light",
+      "css": "css-light",
+      "scss": "css-light",
+      "sass": "css-light",
+      "less": "css-light",
+      "styl": "css-light",
+      "js": "javascript-light",
+      "mjs": "javascript-light",
+      "cjs": "javascript-light",
+      "es6": "javascript-light",
+      "ts": "typescript-light",
+      "mts": "typescript-light",
+      "cts": "typescript-light",
+      "py": "python-light",
+      "pyi": "python-light",
+      "pyw": "python-light",
+      "pyx": "python-light",
+      "java": "java-light",
+      "class": "java-light",
+      "rs": "rust-light",
+      "sql": "sql-light",
+      "plsql": "sql-light",
+      "psql": "sql-light",
+      "sqlite": "sql-light",
+      "sqlite3": "sql-light",
+      "db": "sql-light",
+      "json": "json-light",
+      "jsonc": "json-light",
+      "json5": "json-light",
+      "hjson": "json-light",
+      "yaml": "yaml-light",
+      "yml": "yaml-light",
+      "toml": "toml-light",
+      "xml": "xml-light",
+      "xsd": "xml-light",
+      "xsl": "xml-light",
+      "xslt": "xml-light",
+      "dtd": "xml-light",
+      "plist": "xml-light",
+      "csv": "csv-light",
+      "tsv": "csv-light",
+      "psv": "csv-light",
+      "jsx": "react-light",
+      "tsx": "react-light",
+      "vue": "vue-light",
+      "component.ts": "angular-light",
+      "component.html": "angular-light",
+      "component.css": "angular-light",
+      "component.scss": "angular-light",
+      "directive.ts": "angular-light",
+      "pipe.ts": "angular-light",
+      "svelte": "svelte-light",
+      "blade.php": "laravel-light",
+      "blade": "laravel-light",
+      "dockerfile": "docker-light",
+      "containerfile": "docker-light",
+      "tf": "infra-light",
+      "tfvars": "infra-light",
+      "tfstate": "infra-light",
+      "hcl": "infra-light",
+      "rego": "infra-light",
+      "nix": "infra-light",
+      "bicep": "infra-light",
+      "pp": "infra-light",
+      "workflows/yml": "workflow-light",
+      "workflows/yaml": "workflow-light",
+      "test.js": "test-light",
+      "test.mjs": "test-light",
+      "test.cjs": "test-light",
+      "test.jsx": "test-light",
+      "test.ts": "test-light",
+      "test.mts": "test-light",
+      "test.cts": "test-light",
+      "test.tsx": "test-light",
+      "spec.js": "test-light",
+      "spec.mjs": "test-light",
+      "spec.cjs": "test-light",
+      "spec.jsx": "test-light",
+      "spec.ts": "test-light",
+      "spec.mts": "test-light",
+      "spec.cts": "test-light",
+      "spec.tsx": "test-light",
+      "cy.js": "test-light",
+      "cy.mjs": "test-light",
+      "cy.cjs": "test-light",
+      "cy.jsx": "test-light",
+      "cy.ts": "test-light",
+      "cy.mts": "test-light",
+      "cy.cts": "test-light",
+      "cy.tsx": "test-light",
+      "e2e.js": "test-light",
+      "e2e.mjs": "test-light",
+      "e2e.cjs": "test-light",
+      "e2e.jsx": "test-light",
+      "e2e.ts": "test-light",
+      "e2e.mts": "test-light",
+      "e2e.cts": "test-light",
+      "e2e.tsx": "test-light",
+      "tests/py": "test-light",
+      "test/py": "test-light",
+      "tests/php": "test-light",
+      "tests/java": "test-light",
+      "tests/rs": "test-light",
+      "conf": "config-light",
+      "cfg": "config-light",
+      "ini": "config-light",
+      "properties": "config-light",
+      "editorconfig": "config-light",
+      "env": "config-light",
+      "md": "markdown-light",
+      "markdown": "markdown-light",
+      "mdx": "markdown-light",
+      "mdown": "markdown-light",
+      "mkd": "markdown-light",
+      "sh": "shell-light",
+      "bash": "shell-light",
+      "zsh": "shell-light",
+      "fish": "shell-light",
+      "ps1": "shell-light",
+      "psm1": "shell-light",
+      "bat": "shell-light",
+      "cmd": "shell-light",
+      "svg": "image-light",
+      "png": "image-light",
+      "webp": "image-light",
+      "jpeg": "image-light",
+      "jpg": "image-light",
+      "gif": "image-light",
+      "ico": "image-light",
+      "avif": "image-light",
+      "bmp": "image-light",
+      "tiff": "image-light",
+      "ipynb": "notebook-light",
+      "qmd": "notebook-light",
+      "rmd": "notebook-light",
+      "zip": "archive-light",
+      "tar": "archive-light",
+      "gz": "archive-light",
+      "bz2": "archive-light",
+      "7z": "archive-light",
+      "jar": "archive-light",
+      "rar": "archive-light",
+      "xz": "archive-light",
+      "tgz": "archive-light",
+      "vsix": "archive-light",
+      "go": "go-light",
+      "rb": "ruby-light",
+      "erb": "ruby-light",
+      "rake": "ruby-light",
+      "gemspec": "ruby-light",
+      "swift": "swift-light",
+      "kt": "kotlin-light",
+      "kts": "kotlin-light",
+      "c": "c-light",
+      "h": "c-light",
+      "cc": "cpp-light",
+      "cpp": "cpp-light",
+      "cxx": "cpp-light",
+      "hh": "cpp-light",
+      "hpp": "cpp-light",
+      "hxx": "cpp-light",
+      "inl": "cpp-light",
+      "cs": "csharp-light",
+      "csx": "csharp-light",
+      "csproj": "csharp-light",
+      "sln": "csharp-light",
+      "slnx": "csharp-light",
+      "cmake": "build-light",
+      "gradle": "build-light",
+      "mk": "build-light",
+      "bazel": "build-light"
+    },
+    "fileNames": {
+      ".python-version": "python-light",
+      "requirements.txt": "python-light",
+      "pipfile": "python-light",
+      "pipfile.lock": "python-light",
+      "cargo.toml": "rust-light",
+      "cargo.lock": "rust-light",
+      "rust-toolchain": "rust-light",
+      "rust-toolchain.toml": "rust-light",
+      "angular.json": "angular-light",
+      ".angular-cli.json": "angular-light",
+      "ng-package.json": "angular-light",
+      "svelte.config.js": "svelte-light",
+      "svelte.config.mjs": "svelte-light",
+      "svelte.config.cjs": "svelte-light",
+      "svelte.config.jsx": "svelte-light",
+      "svelte.config.ts": "svelte-light",
+      "svelte.config.mts": "svelte-light",
+      "svelte.config.cts": "svelte-light",
+      "svelte.config.tsx": "svelte-light",
+      "artisan": "laravel-light",
+      "pint.json": "laravel-light",
+      "dockerfile": "docker-light",
+      "dockerfile.dev": "docker-light",
+      "dockerfile.prod": "docker-light",
+      "dockerfile.test": "docker-light",
+      "containerfile": "docker-light",
+      "containerfile.dev": "docker-light",
+      "containerfile.prod": "docker-light",
+      "docker-compose.yml": "docker-light",
+      "docker-compose.yaml": "docker-light",
+      "docker-compose.override.yml": "docker-light",
+      "docker-compose.override.yaml": "docker-light",
+      "compose.yml": "docker-light",
+      "compose.yaml": "docker-light",
+      "compose.override.yml": "docker-light",
+      "compose.override.yaml": "docker-light",
+      ".dockerignore": "docker-light",
+      ".containerignore": "docker-light",
+      "vagrantfile": "infra-light",
+      "procfile": "infra-light",
+      "kustomization.yaml": "infra-light",
+      "helmfile.yaml": "infra-light",
+      "chart.yaml": "infra-light",
+      ".gitlab-ci.yml": "workflow-light",
+      ".travis.yml": "workflow-light",
+      "jenkinsfile": "workflow-light",
+      "azure-pipelines.yml": "workflow-light",
+      "bitbucket-pipelines.yml": "workflow-light",
+      ".circleci/config.yml": "workflow-light",
+      ".circleci/config.yaml": "workflow-light",
+      "vitest.config.js": "test-light",
+      "vitest.config.mjs": "test-light",
+      "vitest.config.cjs": "test-light",
+      "vitest.config.jsx": "test-light",
+      "vitest.config.ts": "test-light",
+      "vitest.config.mts": "test-light",
+      "vitest.config.cts": "test-light",
+      "vitest.config.tsx": "test-light",
+      "jest.config.js": "test-light",
+      "jest.config.mjs": "test-light",
+      "jest.config.cjs": "test-light",
+      "jest.config.jsx": "test-light",
+      "jest.config.ts": "test-light",
+      "jest.config.mts": "test-light",
+      "jest.config.cts": "test-light",
+      "jest.config.tsx": "test-light",
+      "playwright.config.js": "test-light",
+      "playwright.config.mjs": "test-light",
+      "playwright.config.cjs": "test-light",
+      "playwright.config.jsx": "test-light",
+      "playwright.config.ts": "test-light",
+      "playwright.config.mts": "test-light",
+      "playwright.config.cts": "test-light",
+      "playwright.config.tsx": "test-light",
+      "cypress.config.js": "test-light",
+      "cypress.config.mjs": "test-light",
+      "cypress.config.cjs": "test-light",
+      "cypress.config.jsx": "test-light",
+      "cypress.config.ts": "test-light",
+      "cypress.config.mts": "test-light",
+      "cypress.config.cts": "test-light",
+      "cypress.config.tsx": "test-light",
+      "phpunit.xml": "test-light",
+      "phpunit.xml.dist": "test-light",
+      "phpunit.dist.xml": "test-light",
+      "pytest.ini": "test-light",
+      "conftest.py": "test-light",
+      "vite.config.js": "config-light",
+      "vite.config.mjs": "config-light",
+      "vite.config.cjs": "config-light",
+      "vite.config.jsx": "config-light",
+      "vite.config.ts": "config-light",
+      "vite.config.mts": "config-light",
+      "vite.config.cts": "config-light",
+      "vite.config.tsx": "config-light",
+      "webpack.config.js": "config-light",
+      "webpack.config.mjs": "config-light",
+      "webpack.config.cjs": "config-light",
+      "webpack.config.jsx": "config-light",
+      "webpack.config.ts": "config-light",
+      "webpack.config.mts": "config-light",
+      "webpack.config.cts": "config-light",
+      "webpack.config.tsx": "config-light",
+      "next.config.js": "config-light",
+      "next.config.mjs": "config-light",
+      "next.config.cjs": "config-light",
+      "next.config.jsx": "config-light",
+      "next.config.ts": "config-light",
+      "next.config.mts": "config-light",
+      "next.config.cts": "config-light",
+      "next.config.tsx": "config-light",
+      "postcss.config.js": "config-light",
+      "postcss.config.mjs": "config-light",
+      "postcss.config.cjs": "config-light",
+      "postcss.config.jsx": "config-light",
+      "postcss.config.ts": "config-light",
+      "postcss.config.mts": "config-light",
+      "postcss.config.cts": "config-light",
+      "postcss.config.tsx": "config-light",
+      "eslint.config.js": "config-light",
+      "eslint.config.mjs": "config-light",
+      "eslint.config.cjs": "config-light",
+      "eslint.config.jsx": "config-light",
+      "eslint.config.ts": "config-light",
+      "eslint.config.mts": "config-light",
+      "eslint.config.cts": "config-light",
+      "eslint.config.tsx": "config-light",
+      "prettier.config.js": "config-light",
+      "prettier.config.mjs": "config-light",
+      "prettier.config.cjs": "config-light",
+      "prettier.config.jsx": "config-light",
+      "prettier.config.ts": "config-light",
+      "prettier.config.mts": "config-light",
+      "prettier.config.cts": "config-light",
+      "prettier.config.tsx": "config-light",
+      "tailwind.config.js": "config-light",
+      "tailwind.config.mjs": "config-light",
+      "tailwind.config.cjs": "config-light",
+      "tailwind.config.jsx": "config-light",
+      "tailwind.config.ts": "config-light",
+      "tailwind.config.mts": "config-light",
+      "tailwind.config.cts": "config-light",
+      "tailwind.config.tsx": "config-light",
+      "rollup.config.js": "config-light",
+      "rollup.config.mjs": "config-light",
+      "rollup.config.cjs": "config-light",
+      "rollup.config.jsx": "config-light",
+      "rollup.config.ts": "config-light",
+      "rollup.config.mts": "config-light",
+      "rollup.config.cts": "config-light",
+      "rollup.config.tsx": "config-light",
+      "nuxt.config.js": "config-light",
+      "nuxt.config.mjs": "config-light",
+      "nuxt.config.cjs": "config-light",
+      "nuxt.config.jsx": "config-light",
+      "nuxt.config.ts": "config-light",
+      "nuxt.config.mts": "config-light",
+      "nuxt.config.cts": "config-light",
+      "nuxt.config.tsx": "config-light",
+      "astro.config.js": "config-light",
+      "astro.config.mjs": "config-light",
+      "astro.config.cjs": "config-light",
+      "astro.config.jsx": "config-light",
+      "astro.config.ts": "config-light",
+      "astro.config.mts": "config-light",
+      "astro.config.cts": "config-light",
+      "astro.config.tsx": "config-light",
+      ".env": "config-light",
+      ".env.local": "config-light",
+      ".env.example": "config-light",
+      ".env.development": "config-light",
+      ".env.test": "config-light",
+      ".env.production": "config-light",
+      ".editorconfig": "config-light",
+      ".prettierrc": "config-light",
+      ".prettierrc.json": "config-light",
+      ".prettierrc.yaml": "config-light",
+      ".prettierignore": "config-light",
+      ".eslintrc": "config-light",
+      ".eslintrc.json": "config-light",
+      ".eslintrc.yml": "config-light",
+      ".eslintrc.yaml": "config-light",
+      ".eslintignore": "config-light",
+      ".babelrc": "config-light",
+      ".npmrc": "config-light",
+      ".yarnrc": "config-light",
+      ".yarnrc.yml": "config-light",
+      ".stylelintrc": "config-light",
+      "biome.json": "config-light",
+      "biome.jsonc": "config-light",
+      "jsconfig.json": "config-light",
+      "tsconfig.json": "config-light",
+      "tsconfig.app.json": "config-light",
+      "tsconfig.build.json": "config-light",
+      "tsconfig.node.json": "config-light",
+      "settings.json": "config-light",
+      ".vscode/settings.json": "config-light",
+      ".vscode/launch.json": "config-light",
+      ".vscode/tasks.json": "config-light",
+      ".vscode/extensions.json": "config-light",
+      "readme": "readme-light",
+      "readme.md": "readme-light",
+      "readme.markdown": "readme-light",
+      "readme.rst": "readme-light",
+      "readme.txt": "readme-light",
+      "readme.mdx": "readme-light",
+      "license": "license-light",
+      "license.md": "license-light",
+      "license.txt": "license-light",
+      "license-mit": "license-light",
+      "license-apache": "license-light",
+      "licence": "license-light",
+      "licence.md": "license-light",
+      "licence.txt": "license-light",
+      "copying": "license-light",
+      "copying.txt": "license-light",
+      "notice": "license-light",
+      "notice.txt": "license-light",
+      ".gitignore": "git-light",
+      ".gitmodules": "git-light",
+      ".gitattributes": "git-light",
+      ".gitconfig": "git-light",
+      ".git-blame-ignore-revs": "git-light",
+      ".gitkeep": "git-light",
+      ".mailmap": "git-light",
+      "commit_editmsg": "git-light",
+      "git-rebase-todo": "git-light",
+      ".bashrc": "shell-light",
+      ".zshrc": "shell-light",
+      ".bash_profile": "shell-light",
+      ".profile": "shell-light",
+      "config.fish": "shell-light",
+      "package.json": "package-light",
+      "package-lock.json": "package-light",
+      "npm-shrinkwrap.json": "package-light",
+      "pnpm-lock.yaml": "package-light",
+      "pnpm-workspace.yaml": "package-light",
+      "yarn.lock": "package-light",
+      "bun.lock": "package-light",
+      "bun.lockb": "package-light",
+      "composer.json": "package-light",
+      "composer.lock": "package-light",
+      "gemfile": "package-light",
+      "gemfile.lock": "package-light",
+      "pyproject.toml": "package-light",
+      "poetry.lock": "package-light",
+      "uv.lock": "package-light",
+      "go.mod": "package-light",
+      "go.sum": "package-light",
+      "deno.json": "package-light",
+      "deno.jsonc": "package-light",
+      "rakefile": "ruby-light",
+      ".ruby-version": "ruby-light",
+      "makefile": "build-light",
+      "gnumakefile": "build-light",
+      "cmakelists.txt": "build-light",
+      "build": "build-light",
+      "workspace": "build-light",
+      "justfile": "build-light"
+    },
+    "languageIds": {
+      "php": "php-light",
+      "html": "html-light",
+      "css": "css-light",
+      "scss": "css-light",
+      "sass": "css-light",
+      "less": "css-light",
+      "stylus": "css-light",
+      "javascript": "javascript-light",
+      "typescript": "typescript-light",
+      "python": "python-light",
+      "java": "java-light",
+      "rust": "rust-light",
+      "sql": "sql-light",
+      "plsql": "sql-light",
+      "json": "json-light",
+      "jsonc": "json-light",
+      "json5": "json-light",
+      "yaml": "yaml-light",
+      "toml": "toml-light",
+      "xml": "xml-light",
+      "xsl": "xml-light",
+      "csv": "csv-light",
+      "tsv": "csv-light",
+      "javascriptreact": "react-light",
+      "typescriptreact": "react-light",
+      "vue": "vue-light",
+      "angular-html": "angular-light",
+      "angular": "angular-light",
+      "svelte": "svelte-light",
+      "blade": "laravel-light",
+      "laravel-blade": "laravel-light",
+      "dockerfile": "docker-light",
+      "dockercompose": "docker-light",
+      "terraform": "infra-light",
+      "terraform-vars": "infra-light",
+      "hcl": "infra-light",
+      "rego": "infra-light",
+      "nix": "infra-light",
+      "bicep": "infra-light",
+      "ini": "config-light",
+      "properties": "config-light",
+      "dotenv": "config-light",
+      "git-commit": "git-light",
+      "git-rebase": "git-light",
+      "ignore": "git-light",
+      "markdown": "markdown-light",
+      "mdx": "markdown-light",
+      "shellscript": "shell-light",
+      "powershell": "shell-light",
+      "bat": "shell-light",
+      "svg": "image-light",
+      "go": "go-light",
+      "ruby": "ruby-light",
+      "erb": "ruby-light",
+      "swift": "swift-light",
+      "kotlin": "kotlin-light",
+      "c": "c-light",
+      "cpp": "cpp-light",
+      "csharp": "csharp-light",
+      "makefile": "build-light",
+      "cmake": "build-light"
+    },
+    "folderNames": {
+      "src": "folder-src-light",
+      "source": "folder-src-light",
+      "app": "folder-src-light",
+      "public": "folder-public-light",
+      "static": "folder-public-light",
+      "assets": "folder-assets-light",
+      "images": "folder-assets-light",
+      "media": "folder-assets-light",
+      "fonts": "folder-assets-light",
+      "components": "folder-components-light",
+      "widgets": "folder-components-light",
+      "ui": "folder-components-light",
+      "services": "folder-services-light",
+      "service": "folder-services-light",
+      "controllers": "folder-controllers-light",
+      "controller": "folder-controllers-light",
+      "models": "folder-models-light",
+      "model": "folder-models-light",
+      "entities": "folder-models-light",
+      "views": "folder-views-light",
+      "view": "folder-views-light",
+      "templates": "folder-views-light",
+      "pages": "folder-views-light",
+      "routes": "folder-routes-light",
+      "routing": "folder-routes-light",
+      "database": "folder-database-light",
+      "db": "folder-database-light",
+      "migrations": "folder-database-light",
+      "seeds": "folder-database-light",
+      "seeders": "folder-database-light",
+      "tests": "folder-tests-light",
+      "test": "folder-tests-light",
+      "__tests__": "folder-tests-light",
+      "spec": "folder-tests-light",
+      "specs": "folder-tests-light",
+      "e2e": "folder-tests-light",
+      "config": "folder-config-light",
+      "configs": "folder-config-light",
+      "configuration": "folder-config-light",
+      ".vscode": "folder-config-light",
+      "scripts": "folder-scripts-light",
+      "script": "folder-scripts-light",
+      "bin": "folder-scripts-light",
+      "docs": "folder-docs-light",
+      "doc": "folder-docs-light",
+      "documentation": "folder-docs-light",
+      "hooks": "folder-hooks-light",
+      "composables": "folder-hooks-light",
+      "utilities": "folder-utilities-light",
+      "utils": "folder-utilities-light",
+      "helpers": "folder-utilities-light",
+      "api": "folder-api-light",
+      "apis": "folder-api-light",
+      "endpoints": "folder-api-light",
+      "packages": "folder-packages-light",
+      "vendor": "folder-packages-light",
+      "node_modules": "folder-packages-light",
+      "build": "folder-build-light",
+      "dist": "folder-build-light",
+      "out": "folder-build-light",
+      "coverage": "folder-build-light",
+      ".github": "folder-workflows-light",
+      ".gitlab": "folder-workflows-light",
+      ".circleci": "folder-workflows-light",
+      "workflows": "folder-workflows-light",
+      ".git": "folder-git-light"
+    },
+    "folderNamesExpanded": {
+      "src": "folder-src-open-light",
+      "source": "folder-src-open-light",
+      "app": "folder-src-open-light",
+      "public": "folder-public-open-light",
+      "static": "folder-public-open-light",
+      "assets": "folder-assets-open-light",
+      "images": "folder-assets-open-light",
+      "media": "folder-assets-open-light",
+      "fonts": "folder-assets-open-light",
+      "components": "folder-components-open-light",
+      "widgets": "folder-components-open-light",
+      "ui": "folder-components-open-light",
+      "services": "folder-services-open-light",
+      "service": "folder-services-open-light",
+      "controllers": "folder-controllers-open-light",
+      "controller": "folder-controllers-open-light",
+      "models": "folder-models-open-light",
+      "model": "folder-models-open-light",
+      "entities": "folder-models-open-light",
+      "views": "folder-views-open-light",
+      "view": "folder-views-open-light",
+      "templates": "folder-views-open-light",
+      "pages": "folder-views-open-light",
+      "routes": "folder-routes-open-light",
+      "routing": "folder-routes-open-light",
+      "database": "folder-database-open-light",
+      "db": "folder-database-open-light",
+      "migrations": "folder-database-open-light",
+      "seeds": "folder-database-open-light",
+      "seeders": "folder-database-open-light",
+      "tests": "folder-tests-open-light",
+      "test": "folder-tests-open-light",
+      "__tests__": "folder-tests-open-light",
+      "spec": "folder-tests-open-light",
+      "specs": "folder-tests-open-light",
+      "e2e": "folder-tests-open-light",
+      "config": "folder-config-open-light",
+      "configs": "folder-config-open-light",
+      "configuration": "folder-config-open-light",
+      ".vscode": "folder-config-open-light",
+      "scripts": "folder-scripts-open-light",
+      "script": "folder-scripts-open-light",
+      "bin": "folder-scripts-open-light",
+      "docs": "folder-docs-open-light",
+      "doc": "folder-docs-open-light",
+      "documentation": "folder-docs-open-light",
+      "hooks": "folder-hooks-open-light",
+      "composables": "folder-hooks-open-light",
+      "utilities": "folder-utilities-open-light",
+      "utils": "folder-utilities-open-light",
+      "helpers": "folder-utilities-open-light",
+      "api": "folder-api-open-light",
+      "apis": "folder-api-open-light",
+      "endpoints": "folder-api-open-light",
+      "packages": "folder-packages-open-light",
+      "vendor": "folder-packages-open-light",
+      "node_modules": "folder-packages-open-light",
+      "build": "folder-build-open-light",
+      "dist": "folder-build-open-light",
+      "out": "folder-build-open-light",
+      "coverage": "folder-build-open-light",
+      ".github": "folder-workflows-open-light",
+      ".gitlab": "folder-workflows-open-light",
+      ".circleci": "folder-workflows-open-light",
+      "workflows": "folder-workflows-open-light",
+      ".git": "folder-git-open-light"
+    }
+  },
+  "highContrast": {
+    "file": "file-high-contrast",
+    "folder": "folder-high-contrast",
+    "folderExpanded": "folder-open-high-contrast",
+    "rootFolder": "root-folder-high-contrast",
+    "rootFolderExpanded": "root-folder-open-high-contrast",
+    "fileExtensions": {
+      "php": "php-high-contrast",
+      "php3": "php-high-contrast",
+      "php4": "php-high-contrast",
+      "php5": "php-high-contrast",
+      "phtml": "php-high-contrast",
+      "phps": "php-high-contrast",
+      "html": "html-high-contrast",
+      "htm": "html-high-contrast",
+      "xhtml": "html-high-contrast",
+      "css": "css-high-contrast",
+      "scss": "css-high-contrast",
+      "sass": "css-high-contrast",
+      "less": "css-high-contrast",
+      "styl": "css-high-contrast",
+      "js": "javascript-high-contrast",
+      "mjs": "javascript-high-contrast",
+      "cjs": "javascript-high-contrast",
+      "es6": "javascript-high-contrast",
+      "ts": "typescript-high-contrast",
+      "mts": "typescript-high-contrast",
+      "cts": "typescript-high-contrast",
+      "py": "python-high-contrast",
+      "pyi": "python-high-contrast",
+      "pyw": "python-high-contrast",
+      "pyx": "python-high-contrast",
+      "java": "java-high-contrast",
+      "class": "java-high-contrast",
+      "rs": "rust-high-contrast",
+      "sql": "sql-high-contrast",
+      "plsql": "sql-high-contrast",
+      "psql": "sql-high-contrast",
+      "sqlite": "sql-high-contrast",
+      "sqlite3": "sql-high-contrast",
+      "db": "sql-high-contrast",
+      "json": "json-high-contrast",
+      "jsonc": "json-high-contrast",
+      "json5": "json-high-contrast",
+      "hjson": "json-high-contrast",
+      "yaml": "yaml-high-contrast",
+      "yml": "yaml-high-contrast",
+      "toml": "toml-high-contrast",
+      "xml": "xml-high-contrast",
+      "xsd": "xml-high-contrast",
+      "xsl": "xml-high-contrast",
+      "xslt": "xml-high-contrast",
+      "dtd": "xml-high-contrast",
+      "plist": "xml-high-contrast",
+      "csv": "csv-high-contrast",
+      "tsv": "csv-high-contrast",
+      "psv": "csv-high-contrast",
+      "jsx": "react-high-contrast",
+      "tsx": "react-high-contrast",
+      "vue": "vue-high-contrast",
+      "component.ts": "angular-high-contrast",
+      "component.html": "angular-high-contrast",
+      "component.css": "angular-high-contrast",
+      "component.scss": "angular-high-contrast",
+      "directive.ts": "angular-high-contrast",
+      "pipe.ts": "angular-high-contrast",
+      "svelte": "svelte-high-contrast",
+      "blade.php": "laravel-high-contrast",
+      "blade": "laravel-high-contrast",
+      "dockerfile": "docker-high-contrast",
+      "containerfile": "docker-high-contrast",
+      "tf": "infra-high-contrast",
+      "tfvars": "infra-high-contrast",
+      "tfstate": "infra-high-contrast",
+      "hcl": "infra-high-contrast",
+      "rego": "infra-high-contrast",
+      "nix": "infra-high-contrast",
+      "bicep": "infra-high-contrast",
+      "pp": "infra-high-contrast",
+      "workflows/yml": "workflow-high-contrast",
+      "workflows/yaml": "workflow-high-contrast",
+      "test.js": "test-high-contrast",
+      "test.mjs": "test-high-contrast",
+      "test.cjs": "test-high-contrast",
+      "test.jsx": "test-high-contrast",
+      "test.ts": "test-high-contrast",
+      "test.mts": "test-high-contrast",
+      "test.cts": "test-high-contrast",
+      "test.tsx": "test-high-contrast",
+      "spec.js": "test-high-contrast",
+      "spec.mjs": "test-high-contrast",
+      "spec.cjs": "test-high-contrast",
+      "spec.jsx": "test-high-contrast",
+      "spec.ts": "test-high-contrast",
+      "spec.mts": "test-high-contrast",
+      "spec.cts": "test-high-contrast",
+      "spec.tsx": "test-high-contrast",
+      "cy.js": "test-high-contrast",
+      "cy.mjs": "test-high-contrast",
+      "cy.cjs": "test-high-contrast",
+      "cy.jsx": "test-high-contrast",
+      "cy.ts": "test-high-contrast",
+      "cy.mts": "test-high-contrast",
+      "cy.cts": "test-high-contrast",
+      "cy.tsx": "test-high-contrast",
+      "e2e.js": "test-high-contrast",
+      "e2e.mjs": "test-high-contrast",
+      "e2e.cjs": "test-high-contrast",
+      "e2e.jsx": "test-high-contrast",
+      "e2e.ts": "test-high-contrast",
+      "e2e.mts": "test-high-contrast",
+      "e2e.cts": "test-high-contrast",
+      "e2e.tsx": "test-high-contrast",
+      "tests/py": "test-high-contrast",
+      "test/py": "test-high-contrast",
+      "tests/php": "test-high-contrast",
+      "tests/java": "test-high-contrast",
+      "tests/rs": "test-high-contrast",
+      "conf": "config-high-contrast",
+      "cfg": "config-high-contrast",
+      "ini": "config-high-contrast",
+      "properties": "config-high-contrast",
+      "editorconfig": "config-high-contrast",
+      "env": "config-high-contrast",
+      "md": "markdown-high-contrast",
+      "markdown": "markdown-high-contrast",
+      "mdx": "markdown-high-contrast",
+      "mdown": "markdown-high-contrast",
+      "mkd": "markdown-high-contrast",
+      "sh": "shell-high-contrast",
+      "bash": "shell-high-contrast",
+      "zsh": "shell-high-contrast",
+      "fish": "shell-high-contrast",
+      "ps1": "shell-high-contrast",
+      "psm1": "shell-high-contrast",
+      "bat": "shell-high-contrast",
+      "cmd": "shell-high-contrast",
+      "svg": "image-high-contrast",
+      "png": "image-high-contrast",
+      "webp": "image-high-contrast",
+      "jpeg": "image-high-contrast",
+      "jpg": "image-high-contrast",
+      "gif": "image-high-contrast",
+      "ico": "image-high-contrast",
+      "avif": "image-high-contrast",
+      "bmp": "image-high-contrast",
+      "tiff": "image-high-contrast",
+      "ipynb": "notebook-high-contrast",
+      "qmd": "notebook-high-contrast",
+      "rmd": "notebook-high-contrast",
+      "zip": "archive-high-contrast",
+      "tar": "archive-high-contrast",
+      "gz": "archive-high-contrast",
+      "bz2": "archive-high-contrast",
+      "7z": "archive-high-contrast",
+      "jar": "archive-high-contrast",
+      "rar": "archive-high-contrast",
+      "xz": "archive-high-contrast",
+      "tgz": "archive-high-contrast",
+      "vsix": "archive-high-contrast",
+      "go": "go-high-contrast",
+      "rb": "ruby-high-contrast",
+      "erb": "ruby-high-contrast",
+      "rake": "ruby-high-contrast",
+      "gemspec": "ruby-high-contrast",
+      "swift": "swift-high-contrast",
+      "kt": "kotlin-high-contrast",
+      "kts": "kotlin-high-contrast",
+      "c": "c-high-contrast",
+      "h": "c-high-contrast",
+      "cc": "cpp-high-contrast",
+      "cpp": "cpp-high-contrast",
+      "cxx": "cpp-high-contrast",
+      "hh": "cpp-high-contrast",
+      "hpp": "cpp-high-contrast",
+      "hxx": "cpp-high-contrast",
+      "inl": "cpp-high-contrast",
+      "cs": "csharp-high-contrast",
+      "csx": "csharp-high-contrast",
+      "csproj": "csharp-high-contrast",
+      "sln": "csharp-high-contrast",
+      "slnx": "csharp-high-contrast",
+      "cmake": "build-high-contrast",
+      "gradle": "build-high-contrast",
+      "mk": "build-high-contrast",
+      "bazel": "build-high-contrast"
+    },
+    "fileNames": {
+      ".python-version": "python-high-contrast",
+      "requirements.txt": "python-high-contrast",
+      "pipfile": "python-high-contrast",
+      "pipfile.lock": "python-high-contrast",
+      "cargo.toml": "rust-high-contrast",
+      "cargo.lock": "rust-high-contrast",
+      "rust-toolchain": "rust-high-contrast",
+      "rust-toolchain.toml": "rust-high-contrast",
+      "angular.json": "angular-high-contrast",
+      ".angular-cli.json": "angular-high-contrast",
+      "ng-package.json": "angular-high-contrast",
+      "svelte.config.js": "svelte-high-contrast",
+      "svelte.config.mjs": "svelte-high-contrast",
+      "svelte.config.cjs": "svelte-high-contrast",
+      "svelte.config.jsx": "svelte-high-contrast",
+      "svelte.config.ts": "svelte-high-contrast",
+      "svelte.config.mts": "svelte-high-contrast",
+      "svelte.config.cts": "svelte-high-contrast",
+      "svelte.config.tsx": "svelte-high-contrast",
+      "artisan": "laravel-high-contrast",
+      "pint.json": "laravel-high-contrast",
+      "dockerfile": "docker-high-contrast",
+      "dockerfile.dev": "docker-high-contrast",
+      "dockerfile.prod": "docker-high-contrast",
+      "dockerfile.test": "docker-high-contrast",
+      "containerfile": "docker-high-contrast",
+      "containerfile.dev": "docker-high-contrast",
+      "containerfile.prod": "docker-high-contrast",
+      "docker-compose.yml": "docker-high-contrast",
+      "docker-compose.yaml": "docker-high-contrast",
+      "docker-compose.override.yml": "docker-high-contrast",
+      "docker-compose.override.yaml": "docker-high-contrast",
+      "compose.yml": "docker-high-contrast",
+      "compose.yaml": "docker-high-contrast",
+      "compose.override.yml": "docker-high-contrast",
+      "compose.override.yaml": "docker-high-contrast",
+      ".dockerignore": "docker-high-contrast",
+      ".containerignore": "docker-high-contrast",
+      "vagrantfile": "infra-high-contrast",
+      "procfile": "infra-high-contrast",
+      "kustomization.yaml": "infra-high-contrast",
+      "helmfile.yaml": "infra-high-contrast",
+      "chart.yaml": "infra-high-contrast",
+      ".gitlab-ci.yml": "workflow-high-contrast",
+      ".travis.yml": "workflow-high-contrast",
+      "jenkinsfile": "workflow-high-contrast",
+      "azure-pipelines.yml": "workflow-high-contrast",
+      "bitbucket-pipelines.yml": "workflow-high-contrast",
+      ".circleci/config.yml": "workflow-high-contrast",
+      ".circleci/config.yaml": "workflow-high-contrast",
+      "vitest.config.js": "test-high-contrast",
+      "vitest.config.mjs": "test-high-contrast",
+      "vitest.config.cjs": "test-high-contrast",
+      "vitest.config.jsx": "test-high-contrast",
+      "vitest.config.ts": "test-high-contrast",
+      "vitest.config.mts": "test-high-contrast",
+      "vitest.config.cts": "test-high-contrast",
+      "vitest.config.tsx": "test-high-contrast",
+      "jest.config.js": "test-high-contrast",
+      "jest.config.mjs": "test-high-contrast",
+      "jest.config.cjs": "test-high-contrast",
+      "jest.config.jsx": "test-high-contrast",
+      "jest.config.ts": "test-high-contrast",
+      "jest.config.mts": "test-high-contrast",
+      "jest.config.cts": "test-high-contrast",
+      "jest.config.tsx": "test-high-contrast",
+      "playwright.config.js": "test-high-contrast",
+      "playwright.config.mjs": "test-high-contrast",
+      "playwright.config.cjs": "test-high-contrast",
+      "playwright.config.jsx": "test-high-contrast",
+      "playwright.config.ts": "test-high-contrast",
+      "playwright.config.mts": "test-high-contrast",
+      "playwright.config.cts": "test-high-contrast",
+      "playwright.config.tsx": "test-high-contrast",
+      "cypress.config.js": "test-high-contrast",
+      "cypress.config.mjs": "test-high-contrast",
+      "cypress.config.cjs": "test-high-contrast",
+      "cypress.config.jsx": "test-high-contrast",
+      "cypress.config.ts": "test-high-contrast",
+      "cypress.config.mts": "test-high-contrast",
+      "cypress.config.cts": "test-high-contrast",
+      "cypress.config.tsx": "test-high-contrast",
+      "phpunit.xml": "test-high-contrast",
+      "phpunit.xml.dist": "test-high-contrast",
+      "phpunit.dist.xml": "test-high-contrast",
+      "pytest.ini": "test-high-contrast",
+      "conftest.py": "test-high-contrast",
+      "vite.config.js": "config-high-contrast",
+      "vite.config.mjs": "config-high-contrast",
+      "vite.config.cjs": "config-high-contrast",
+      "vite.config.jsx": "config-high-contrast",
+      "vite.config.ts": "config-high-contrast",
+      "vite.config.mts": "config-high-contrast",
+      "vite.config.cts": "config-high-contrast",
+      "vite.config.tsx": "config-high-contrast",
+      "webpack.config.js": "config-high-contrast",
+      "webpack.config.mjs": "config-high-contrast",
+      "webpack.config.cjs": "config-high-contrast",
+      "webpack.config.jsx": "config-high-contrast",
+      "webpack.config.ts": "config-high-contrast",
+      "webpack.config.mts": "config-high-contrast",
+      "webpack.config.cts": "config-high-contrast",
+      "webpack.config.tsx": "config-high-contrast",
+      "next.config.js": "config-high-contrast",
+      "next.config.mjs": "config-high-contrast",
+      "next.config.cjs": "config-high-contrast",
+      "next.config.jsx": "config-high-contrast",
+      "next.config.ts": "config-high-contrast",
+      "next.config.mts": "config-high-contrast",
+      "next.config.cts": "config-high-contrast",
+      "next.config.tsx": "config-high-contrast",
+      "postcss.config.js": "config-high-contrast",
+      "postcss.config.mjs": "config-high-contrast",
+      "postcss.config.cjs": "config-high-contrast",
+      "postcss.config.jsx": "config-high-contrast",
+      "postcss.config.ts": "config-high-contrast",
+      "postcss.config.mts": "config-high-contrast",
+      "postcss.config.cts": "config-high-contrast",
+      "postcss.config.tsx": "config-high-contrast",
+      "eslint.config.js": "config-high-contrast",
+      "eslint.config.mjs": "config-high-contrast",
+      "eslint.config.cjs": "config-high-contrast",
+      "eslint.config.jsx": "config-high-contrast",
+      "eslint.config.ts": "config-high-contrast",
+      "eslint.config.mts": "config-high-contrast",
+      "eslint.config.cts": "config-high-contrast",
+      "eslint.config.tsx": "config-high-contrast",
+      "prettier.config.js": "config-high-contrast",
+      "prettier.config.mjs": "config-high-contrast",
+      "prettier.config.cjs": "config-high-contrast",
+      "prettier.config.jsx": "config-high-contrast",
+      "prettier.config.ts": "config-high-contrast",
+      "prettier.config.mts": "config-high-contrast",
+      "prettier.config.cts": "config-high-contrast",
+      "prettier.config.tsx": "config-high-contrast",
+      "tailwind.config.js": "config-high-contrast",
+      "tailwind.config.mjs": "config-high-contrast",
+      "tailwind.config.cjs": "config-high-contrast",
+      "tailwind.config.jsx": "config-high-contrast",
+      "tailwind.config.ts": "config-high-contrast",
+      "tailwind.config.mts": "config-high-contrast",
+      "tailwind.config.cts": "config-high-contrast",
+      "tailwind.config.tsx": "config-high-contrast",
+      "rollup.config.js": "config-high-contrast",
+      "rollup.config.mjs": "config-high-contrast",
+      "rollup.config.cjs": "config-high-contrast",
+      "rollup.config.jsx": "config-high-contrast",
+      "rollup.config.ts": "config-high-contrast",
+      "rollup.config.mts": "config-high-contrast",
+      "rollup.config.cts": "config-high-contrast",
+      "rollup.config.tsx": "config-high-contrast",
+      "nuxt.config.js": "config-high-contrast",
+      "nuxt.config.mjs": "config-high-contrast",
+      "nuxt.config.cjs": "config-high-contrast",
+      "nuxt.config.jsx": "config-high-contrast",
+      "nuxt.config.ts": "config-high-contrast",
+      "nuxt.config.mts": "config-high-contrast",
+      "nuxt.config.cts": "config-high-contrast",
+      "nuxt.config.tsx": "config-high-contrast",
+      "astro.config.js": "config-high-contrast",
+      "astro.config.mjs": "config-high-contrast",
+      "astro.config.cjs": "config-high-contrast",
+      "astro.config.jsx": "config-high-contrast",
+      "astro.config.ts": "config-high-contrast",
+      "astro.config.mts": "config-high-contrast",
+      "astro.config.cts": "config-high-contrast",
+      "astro.config.tsx": "config-high-contrast",
+      ".env": "config-high-contrast",
+      ".env.local": "config-high-contrast",
+      ".env.example": "config-high-contrast",
+      ".env.development": "config-high-contrast",
+      ".env.test": "config-high-contrast",
+      ".env.production": "config-high-contrast",
+      ".editorconfig": "config-high-contrast",
+      ".prettierrc": "config-high-contrast",
+      ".prettierrc.json": "config-high-contrast",
+      ".prettierrc.yaml": "config-high-contrast",
+      ".prettierignore": "config-high-contrast",
+      ".eslintrc": "config-high-contrast",
+      ".eslintrc.json": "config-high-contrast",
+      ".eslintrc.yml": "config-high-contrast",
+      ".eslintrc.yaml": "config-high-contrast",
+      ".eslintignore": "config-high-contrast",
+      ".babelrc": "config-high-contrast",
+      ".npmrc": "config-high-contrast",
+      ".yarnrc": "config-high-contrast",
+      ".yarnrc.yml": "config-high-contrast",
+      ".stylelintrc": "config-high-contrast",
+      "biome.json": "config-high-contrast",
+      "biome.jsonc": "config-high-contrast",
+      "jsconfig.json": "config-high-contrast",
+      "tsconfig.json": "config-high-contrast",
+      "tsconfig.app.json": "config-high-contrast",
+      "tsconfig.build.json": "config-high-contrast",
+      "tsconfig.node.json": "config-high-contrast",
+      "settings.json": "config-high-contrast",
+      ".vscode/settings.json": "config-high-contrast",
+      ".vscode/launch.json": "config-high-contrast",
+      ".vscode/tasks.json": "config-high-contrast",
+      ".vscode/extensions.json": "config-high-contrast",
+      "readme": "readme-high-contrast",
+      "readme.md": "readme-high-contrast",
+      "readme.markdown": "readme-high-contrast",
+      "readme.rst": "readme-high-contrast",
+      "readme.txt": "readme-high-contrast",
+      "readme.mdx": "readme-high-contrast",
+      "license": "license-high-contrast",
+      "license.md": "license-high-contrast",
+      "license.txt": "license-high-contrast",
+      "license-mit": "license-high-contrast",
+      "license-apache": "license-high-contrast",
+      "licence": "license-high-contrast",
+      "licence.md": "license-high-contrast",
+      "licence.txt": "license-high-contrast",
+      "copying": "license-high-contrast",
+      "copying.txt": "license-high-contrast",
+      "notice": "license-high-contrast",
+      "notice.txt": "license-high-contrast",
+      ".gitignore": "git-high-contrast",
+      ".gitmodules": "git-high-contrast",
+      ".gitattributes": "git-high-contrast",
+      ".gitconfig": "git-high-contrast",
+      ".git-blame-ignore-revs": "git-high-contrast",
+      ".gitkeep": "git-high-contrast",
+      ".mailmap": "git-high-contrast",
+      "commit_editmsg": "git-high-contrast",
+      "git-rebase-todo": "git-high-contrast",
+      ".bashrc": "shell-high-contrast",
+      ".zshrc": "shell-high-contrast",
+      ".bash_profile": "shell-high-contrast",
+      ".profile": "shell-high-contrast",
+      "config.fish": "shell-high-contrast",
+      "package.json": "package-high-contrast",
+      "package-lock.json": "package-high-contrast",
+      "npm-shrinkwrap.json": "package-high-contrast",
+      "pnpm-lock.yaml": "package-high-contrast",
+      "pnpm-workspace.yaml": "package-high-contrast",
+      "yarn.lock": "package-high-contrast",
+      "bun.lock": "package-high-contrast",
+      "bun.lockb": "package-high-contrast",
+      "composer.json": "package-high-contrast",
+      "composer.lock": "package-high-contrast",
+      "gemfile": "package-high-contrast",
+      "gemfile.lock": "package-high-contrast",
+      "pyproject.toml": "package-high-contrast",
+      "poetry.lock": "package-high-contrast",
+      "uv.lock": "package-high-contrast",
+      "go.mod": "package-high-contrast",
+      "go.sum": "package-high-contrast",
+      "deno.json": "package-high-contrast",
+      "deno.jsonc": "package-high-contrast",
+      "rakefile": "ruby-high-contrast",
+      ".ruby-version": "ruby-high-contrast",
+      "makefile": "build-high-contrast",
+      "gnumakefile": "build-high-contrast",
+      "cmakelists.txt": "build-high-contrast",
+      "build": "build-high-contrast",
+      "workspace": "build-high-contrast",
+      "justfile": "build-high-contrast"
+    },
+    "languageIds": {
+      "php": "php-high-contrast",
+      "html": "html-high-contrast",
+      "css": "css-high-contrast",
+      "scss": "css-high-contrast",
+      "sass": "css-high-contrast",
+      "less": "css-high-contrast",
+      "stylus": "css-high-contrast",
+      "javascript": "javascript-high-contrast",
+      "typescript": "typescript-high-contrast",
+      "python": "python-high-contrast",
+      "java": "java-high-contrast",
+      "rust": "rust-high-contrast",
+      "sql": "sql-high-contrast",
+      "plsql": "sql-high-contrast",
+      "json": "json-high-contrast",
+      "jsonc": "json-high-contrast",
+      "json5": "json-high-contrast",
+      "yaml": "yaml-high-contrast",
+      "toml": "toml-high-contrast",
+      "xml": "xml-high-contrast",
+      "xsl": "xml-high-contrast",
+      "csv": "csv-high-contrast",
+      "tsv": "csv-high-contrast",
+      "javascriptreact": "react-high-contrast",
+      "typescriptreact": "react-high-contrast",
+      "vue": "vue-high-contrast",
+      "angular-html": "angular-high-contrast",
+      "angular": "angular-high-contrast",
+      "svelte": "svelte-high-contrast",
+      "blade": "laravel-high-contrast",
+      "laravel-blade": "laravel-high-contrast",
+      "dockerfile": "docker-high-contrast",
+      "dockercompose": "docker-high-contrast",
+      "terraform": "infra-high-contrast",
+      "terraform-vars": "infra-high-contrast",
+      "hcl": "infra-high-contrast",
+      "rego": "infra-high-contrast",
+      "nix": "infra-high-contrast",
+      "bicep": "infra-high-contrast",
+      "ini": "config-high-contrast",
+      "properties": "config-high-contrast",
+      "dotenv": "config-high-contrast",
+      "git-commit": "git-high-contrast",
+      "git-rebase": "git-high-contrast",
+      "ignore": "git-high-contrast",
+      "markdown": "markdown-high-contrast",
+      "mdx": "markdown-high-contrast",
+      "shellscript": "shell-high-contrast",
+      "powershell": "shell-high-contrast",
+      "bat": "shell-high-contrast",
+      "svg": "image-high-contrast",
+      "go": "go-high-contrast",
+      "ruby": "ruby-high-contrast",
+      "erb": "ruby-high-contrast",
+      "swift": "swift-high-contrast",
+      "kotlin": "kotlin-high-contrast",
+      "c": "c-high-contrast",
+      "cpp": "cpp-high-contrast",
+      "csharp": "csharp-high-contrast",
+      "makefile": "build-high-contrast",
+      "cmake": "build-high-contrast"
+    },
+    "folderNames": {
+      "src": "folder-src-high-contrast",
+      "source": "folder-src-high-contrast",
+      "app": "folder-src-high-contrast",
+      "public": "folder-public-high-contrast",
+      "static": "folder-public-high-contrast",
+      "assets": "folder-assets-high-contrast",
+      "images": "folder-assets-high-contrast",
+      "media": "folder-assets-high-contrast",
+      "fonts": "folder-assets-high-contrast",
+      "components": "folder-components-high-contrast",
+      "widgets": "folder-components-high-contrast",
+      "ui": "folder-components-high-contrast",
+      "services": "folder-services-high-contrast",
+      "service": "folder-services-high-contrast",
+      "controllers": "folder-controllers-high-contrast",
+      "controller": "folder-controllers-high-contrast",
+      "models": "folder-models-high-contrast",
+      "model": "folder-models-high-contrast",
+      "entities": "folder-models-high-contrast",
+      "views": "folder-views-high-contrast",
+      "view": "folder-views-high-contrast",
+      "templates": "folder-views-high-contrast",
+      "pages": "folder-views-high-contrast",
+      "routes": "folder-routes-high-contrast",
+      "routing": "folder-routes-high-contrast",
+      "database": "folder-database-high-contrast",
+      "db": "folder-database-high-contrast",
+      "migrations": "folder-database-high-contrast",
+      "seeds": "folder-database-high-contrast",
+      "seeders": "folder-database-high-contrast",
+      "tests": "folder-tests-high-contrast",
+      "test": "folder-tests-high-contrast",
+      "__tests__": "folder-tests-high-contrast",
+      "spec": "folder-tests-high-contrast",
+      "specs": "folder-tests-high-contrast",
+      "e2e": "folder-tests-high-contrast",
+      "config": "folder-config-high-contrast",
+      "configs": "folder-config-high-contrast",
+      "configuration": "folder-config-high-contrast",
+      ".vscode": "folder-config-high-contrast",
+      "scripts": "folder-scripts-high-contrast",
+      "script": "folder-scripts-high-contrast",
+      "bin": "folder-scripts-high-contrast",
+      "docs": "folder-docs-high-contrast",
+      "doc": "folder-docs-high-contrast",
+      "documentation": "folder-docs-high-contrast",
+      "hooks": "folder-hooks-high-contrast",
+      "composables": "folder-hooks-high-contrast",
+      "utilities": "folder-utilities-high-contrast",
+      "utils": "folder-utilities-high-contrast",
+      "helpers": "folder-utilities-high-contrast",
+      "api": "folder-api-high-contrast",
+      "apis": "folder-api-high-contrast",
+      "endpoints": "folder-api-high-contrast",
+      "packages": "folder-packages-high-contrast",
+      "vendor": "folder-packages-high-contrast",
+      "node_modules": "folder-packages-high-contrast",
+      "build": "folder-build-high-contrast",
+      "dist": "folder-build-high-contrast",
+      "out": "folder-build-high-contrast",
+      "coverage": "folder-build-high-contrast",
+      ".github": "folder-workflows-high-contrast",
+      ".gitlab": "folder-workflows-high-contrast",
+      ".circleci": "folder-workflows-high-contrast",
+      "workflows": "folder-workflows-high-contrast",
+      ".git": "folder-git-high-contrast"
+    },
+    "folderNamesExpanded": {
+      "src": "folder-src-open-high-contrast",
+      "source": "folder-src-open-high-contrast",
+      "app": "folder-src-open-high-contrast",
+      "public": "folder-public-open-high-contrast",
+      "static": "folder-public-open-high-contrast",
+      "assets": "folder-assets-open-high-contrast",
+      "images": "folder-assets-open-high-contrast",
+      "media": "folder-assets-open-high-contrast",
+      "fonts": "folder-assets-open-high-contrast",
+      "components": "folder-components-open-high-contrast",
+      "widgets": "folder-components-open-high-contrast",
+      "ui": "folder-components-open-high-contrast",
+      "services": "folder-services-open-high-contrast",
+      "service": "folder-services-open-high-contrast",
+      "controllers": "folder-controllers-open-high-contrast",
+      "controller": "folder-controllers-open-high-contrast",
+      "models": "folder-models-open-high-contrast",
+      "model": "folder-models-open-high-contrast",
+      "entities": "folder-models-open-high-contrast",
+      "views": "folder-views-open-high-contrast",
+      "view": "folder-views-open-high-contrast",
+      "templates": "folder-views-open-high-contrast",
+      "pages": "folder-views-open-high-contrast",
+      "routes": "folder-routes-open-high-contrast",
+      "routing": "folder-routes-open-high-contrast",
+      "database": "folder-database-open-high-contrast",
+      "db": "folder-database-open-high-contrast",
+      "migrations": "folder-database-open-high-contrast",
+      "seeds": "folder-database-open-high-contrast",
+      "seeders": "folder-database-open-high-contrast",
+      "tests": "folder-tests-open-high-contrast",
+      "test": "folder-tests-open-high-contrast",
+      "__tests__": "folder-tests-open-high-contrast",
+      "spec": "folder-tests-open-high-contrast",
+      "specs": "folder-tests-open-high-contrast",
+      "e2e": "folder-tests-open-high-contrast",
+      "config": "folder-config-open-high-contrast",
+      "configs": "folder-config-open-high-contrast",
+      "configuration": "folder-config-open-high-contrast",
+      ".vscode": "folder-config-open-high-contrast",
+      "scripts": "folder-scripts-open-high-contrast",
+      "script": "folder-scripts-open-high-contrast",
+      "bin": "folder-scripts-open-high-contrast",
+      "docs": "folder-docs-open-high-contrast",
+      "doc": "folder-docs-open-high-contrast",
+      "documentation": "folder-docs-open-high-contrast",
+      "hooks": "folder-hooks-open-high-contrast",
+      "composables": "folder-hooks-open-high-contrast",
+      "utilities": "folder-utilities-open-high-contrast",
+      "utils": "folder-utilities-open-high-contrast",
+      "helpers": "folder-utilities-open-high-contrast",
+      "api": "folder-api-open-high-contrast",
+      "apis": "folder-api-open-high-contrast",
+      "endpoints": "folder-api-open-high-contrast",
+      "packages": "folder-packages-open-high-contrast",
+      "vendor": "folder-packages-open-high-contrast",
+      "node_modules": "folder-packages-open-high-contrast",
+      "build": "folder-build-open-high-contrast",
+      "dist": "folder-build-open-high-contrast",
+      "out": "folder-build-open-high-contrast",
+      "coverage": "folder-build-open-high-contrast",
+      ".github": "folder-workflows-open-high-contrast",
+      ".gitlab": "folder-workflows-open-high-contrast",
+      ".circleci": "folder-workflows-open-high-contrast",
+      "workflows": "folder-workflows-open-high-contrast",
+      ".git": "folder-git-open-high-contrast"
+    }
+  },
+  "showLanguageModeIcons": false,
+  "hidesExplorerArrows": false
+}

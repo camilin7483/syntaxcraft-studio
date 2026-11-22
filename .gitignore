@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+.test-runtime/
+.vscode-test/
+*.vsix
+.DS_Store
+packages/*/icon.png
