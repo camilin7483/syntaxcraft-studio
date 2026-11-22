@@ -6,3 +6,11 @@ release/
 *.vsix
 .DS_Store
 packages/*/icon.png
+
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.yaml
+config.local.*

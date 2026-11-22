@@ -4,7 +4,9 @@ Suite de cinco extensiones para VS Code de escritorio. Incluye temas originales,
 
 [English README](README.en.md) · [Instalación](docs/INSTALL.md) · [Desarrollo](docs/DEVELOPMENT.md) · [Publicación](docs/RELEASE.md) · [Verificación](docs/VERIFICATION.md)
 
-## Empezar
+## Instalar desde GitHub
+
+[Descarga SyntaxCraft Studio 1.0.0](https://github.com/camilin7483/syntaxcraft-studio/releases/tag/v1.0.0). En **Assets**, elige el ZIP de instaladores para obtener todos los VSIX juntos o descarga los módulos que quieras usar.
 
 1. Instala los VSIX de **Colors**, **Icons**, **Organizer** y **Control Center** con **Extensions: Install from VSIX…**. El VSIX del paquete es opcional y se instala al final si trabajas localmente.
 2. Abre la paleta de comandos y ejecuta **SyntaxCraft: Open Control Center**.

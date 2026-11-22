@@ -1,12 +1,18 @@
 # Instalar SyntaxCraft Studio 1.0.0
 
-Requiere Visual Studio Code de escritorio 1.100 o posterior. Extrae el archivo de distribución y abre una carpeta con los VSIX.
+Requiere Visual Studio Code de escritorio 1.100 o posterior.
+
+1. Abre [la release v1.0.0 en GitHub](https://github.com/camilin7483/syntaxcraft-studio/releases/tag/v1.0.0).
+2. En **Assets**, descarga `SyntaxCraft-Studio-1.0.0-vsix.zip` y extráelo. También puedes descargar cada VSIX por separado.
+3. Abre VS Code y sigue el método gráfico o de terminal a continuación.
 
 ## Desde VS Code
 
-Ejecuta **Extensions: Install from VSIX…** desde la paleta de comandos. Instala Colors, Icons, Organizer y Control Center. Después puedes instalar Extension Pack.
+Abre la paleta con **Ctrl+Shift+P** (**Cmd+Shift+P** en macOS) y ejecuta **Extensions: Install from VSIX…**. Selecciona los VSIX de Colors, Icons, Organizer y Control Center. Instala Extension Pack al final si quieres agrupar los cuatro módulos.
 
 ## Desde la terminal
+
+Abre una terminal en la carpeta donde extrajiste los VSIX y ejecuta los comandos en este orden.
 
 ```sh
 code --install-extension syntaxcraft-colors-1.0.0.vsix
@@ -23,9 +29,10 @@ En macOS, instala el comando `code` desde **Shell Command: Install 'code' comman
 ## Primer uso
 
 1. Ejecuta **SyntaxCraft: Open Control Center**.
-2. Abre **Temas** o **Estudio de color**, ajusta el borrador y pulsa **Aplicar ajustes**.
-3. Usa **Usuario** para tu perfil de VS Code o **Proyecto** para el espacio de trabajo de confianza abierto.
-4. Guarda o exporta el borrador desde **Perfiles**. Usa **Ajustes** para recuperar los valores anteriores.
+2. Abre **Temas** y selecciona **Midnight Pro**. En **Estudio de iconos**, elige **Modern**.
+3. Pulsa **Aplicar ajustes** en el ámbito **Usuario** y confirma.
+4. Si quieres aplicar las preferencias a un proyecto de confianza, selecciona **Proyecto**.
+5. Guarda o exporta el borrador desde **Perfiles**. Usa **Ajustes** para recuperar los valores anteriores.
 
 Si necesitas desinstalar, restaura primero las preferencias administradas por Studio desde **Ajustes**. En un proyecto con varios ajustes de lenguaje, las reglas del editor definidas por carpeta o por lenguaje pueden tener precedencia según VS Code. [Ámbitos de configuración](https://code.visualstudio.com/docs/configure/settings)
 

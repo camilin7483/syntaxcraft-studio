@@ -4,7 +4,9 @@ A five-extension suite for desktop Visual Studio Code. It combines original them
 
 [Leer en español](README.md) · [Installation](docs/INSTALL.md) · [Development](docs/DEVELOPMENT.md) · [Publishing](docs/RELEASE.md) · [Verification](docs/VERIFICATION.md)
 
-## Get started
+## Install from GitHub
+
+[Download SyntaxCraft Studio 1.0.0](https://github.com/camilin7483/syntaxcraft-studio/releases/tag/v1.0.0). Under **Assets**, choose the installer ZIP for all VSIX files or download individual modules.
 
 1. Install the **Colors**, **Icons**, **Organizer**, and **Control Center** VSIX files with **Extensions: Install from VSIX…**. Install the optional extension pack last when using local files.
 2. Open the Command Palette and run **SyntaxCraft: Open Control Center**.
