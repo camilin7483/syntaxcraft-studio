@@ -23,6 +23,26 @@ Desktop VS Code 1.100 and later is supported. Each extension includes its own lo
 | Control Center | Color and icon previews, language coverage, contrast, JSON profiles, comparison, and scope-specific restoration. |
 | Extension Pack | Installs the four extensions together once they are published to Visual Studio Marketplace.                      |
 
+## Demo
+
+The walkthrough edits a Python token color, compares the result, selects a theme and icons, and saves a profile. It ends with the available Organizer actions.
+
+SYNTAXCRAFT_DEMO_VIDEO
+
+[Open the MP4 video](SYNTAXCRAFT_DEMO_VIDEO)
+
+| Control Center                                                                                     | Color Studio                                                                          |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![Control Center showing the active theme and a TypeScript preview](docs/media/control-center.png) | ![Before-and-after comparison of a Python comment color](docs/media/color-studio.png) |
+
+| Color themes                                                                       | Icon Studio                                                         |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![Ten color themes with Arctic Light selected in the draft](docs/media/themes.png) | ![Four file icon sets with Explorer previews](docs/media/icons.png) |
+
+| Profiles                                                              | Organizer                                                                         |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![Saved Python profile and built-in presets](docs/media/profiles.png) | ![Formatting, import, and cleanup actions in Organizer](docs/media/organizer.png) |
+
 ## Customize and restore
 
 Choose an original theme in the Control Center or use **Preferences: Color Theme**. The Color Studio supports HEX, RGB, and HSL, token search, language filters, and side-by-side comparison. **Abrir muestra en VS Code** opens an unsaved sample in the actual editor. Custom workbench colors affect editor, terminal, diagnostics, diff, and other theme surfaces. The Accessibility page checks the draft against a 4.5:1 contrast threshold for normal text.
