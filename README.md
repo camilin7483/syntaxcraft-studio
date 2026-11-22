@@ -27,9 +27,9 @@ VS Code 1.100 o posterior. Las extensiones de interfaz incluyen todos sus recurs
 
 El recorrido muestra cómo editar el color de un token de Python, comparar el resultado, elegir un tema e iconos y guardar un perfil. Al final se ven las acciones del Organizador.
 
-SYNTAXCRAFT_DEMO_VIDEO
+https://github.com/user-attachments/assets/3ed888ae-5a08-4e93-9475-0e3eb674b73a
 
-[Abrir el video MP4](SYNTAXCRAFT_DEMO_VIDEO)
+[Abrir el video MP4](https://github.com/user-attachments/assets/3ed888ae-5a08-4e93-9475-0e3eb674b73a)
 
 | Panel de control                                                                                       | Estudio de color                                                                                           |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |

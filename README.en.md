@@ -27,9 +27,9 @@ Desktop VS Code 1.100 and later is supported. Each extension includes its own lo
 
 The walkthrough edits a Python token color, compares the result, selects a theme and icons, and saves a profile. It ends with the available Organizer actions.
 
-SYNTAXCRAFT_DEMO_VIDEO
+https://github.com/user-attachments/assets/3ed888ae-5a08-4e93-9475-0e3eb674b73a
 
-[Open the MP4 video](SYNTAXCRAFT_DEMO_VIDEO)
+[Open the MP4 video](https://github.com/user-attachments/assets/3ed888ae-5a08-4e93-9475-0e3eb674b73a)
 
 | Control Center                                                                                     | Color Studio                                                                          |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
